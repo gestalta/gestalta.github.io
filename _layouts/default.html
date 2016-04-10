@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+    <script src="{{base_url}}/js/sticky.js"></script>
+    <script src="{{base_url}}/js/app.js"></script>
+
+  </body>
+
+</html>

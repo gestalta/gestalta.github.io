@@ -1,0 +1,45 @@
+html, body
+  text-align: right
+  font-family: 'Khula'
+
+.title
+  @extend .jp
+  pointer-events: none
+  font-size: 13em
+  margin-right: -26px
+  letter-spacing: -10px
+
+.splash-section
+  margin: 0.5em
+  overflow: hidden
+
+.splash-section-text
+  margin-top: 30px
+  max-width: 800px
+  float: right
+
+.main-menu
+  z-index: 9999
+  background: white
+  text-transform: uppercase
+  font-size: 20px
+  text-align: right
+  list-style: none
+  padding: 10px 0
+
+.main-menu li
+  display: inline-block
+  margin: 0 0 0 40px
+
+.main-menu .home
+  transition: opacity 0.3s linear
+  opacity: 0
+  visibility: hidden
+
+.main-menu a
+  color: #333
+
+.sticky-wrapper.is-sticky .main-menu .home
+  opacity: 1
+  visibility: visible
+
