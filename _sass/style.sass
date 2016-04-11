@@ -7,6 +7,8 @@ a:hover, a:active, a:visited
 
 .title
   @extend .jp
+  position: relative
+  z-index: 4
   pointer-events: none
   font-size: 60px
   @media (min-width: $screen-sm-min)
@@ -23,12 +25,13 @@ a:hover, a:active, a:visited
 
 .splash-section
   position: relative
-  padding-top: 9em
+  margin-top: 500px
   @media (min-width: $screen-sm-min)
-    padding-top: 7em
+    margin-top: 7em
   @media (min-width: $screen-md-min)
-    padding-top: 12em
+    margin-top: 12em
   margin: 0.5em
+  min-height: 100vh
   overflow: hidden
 
 .splash-section-image
