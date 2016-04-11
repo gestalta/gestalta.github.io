@@ -5,11 +5,20 @@ html, body
 .title
   @extend .jp
   pointer-events: none
-  font-size: 13em
-  margin-right: -26px
-  letter-spacing: -10px
+  @media (min-width: $screen-sm-min)
+    font-size: 60px
+  @media (min-width: $screen-md-min)
+    font-size: 100px
+  @media (min-width: $screen-lg-min)
+    font-size: 180px
+    letter-spacing: -10px
+    margin-right: -26px
+
+.title-no-offset
+  margin-right: -5px
 
 .splash-section
+  padding-top: 12em
   margin: 0.5em
   overflow: hidden
 
@@ -28,10 +37,26 @@ html, body
   padding: 10px 0
 
 .main-menu li
-  display: inline-block
-  margin: 0 0 0 40px
+  width: 100%
+  display: block
+  @media (min-width: $screen-sm-min)
+    width: auto
+    display: inline-block
+    margin: 0 0 0 40px
+
+.main-menu li a
+  padding: 0 5px
+  margin: 0
+
+.main-menu li:hover
+  background: #333
+
+.main-menu li:hover a
+  color: #fff
+  text-decoration: none
 
 .main-menu .home
+  margin-left: 0
   transition: opacity 0.3s linear
   opacity: 0
   visibility: hidden
