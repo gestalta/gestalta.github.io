@@ -2,11 +2,15 @@ html, body
   text-align: right
   font-family: 'Khula'
 
+a:hover, a:active, a:visited
+  text-decoration: none
+
 .title
   @extend .jp
   pointer-events: none
+  font-size: 60px
   @media (min-width: $screen-sm-min)
-    font-size: 60px
+    font-size: 80px
   @media (min-width: $screen-md-min)
     font-size: 100px
   @media (min-width: $screen-lg-min)
@@ -18,13 +22,27 @@ html, body
   margin-right: -5px
 
 .splash-section
-  padding-top: 12em
+  position: relative
+  padding-top: 9em
+  @media (min-width: $screen-sm-min)
+    padding-top: 7em
+  @media (min-width: $screen-md-min)
+    padding-top: 12em
   margin: 0.5em
-  overflow: hidden
+
+.splash-section-image
+  position: absolute
+  top: 0
+  left: 0
+
+.splash-section-text-container
+  width: 100%
+  min-height: 100%
+  margin-bottom: 200px
 
 .splash-section-text
   margin-top: 30px
-  max-width: 800px
+  max-width: 600px
   float: right
 
 .main-menu
@@ -39,6 +57,7 @@ html, body
 .main-menu li
   width: 100%
   display: block
+  background: #fff
   @media (min-width: $screen-sm-min)
     width: auto
     display: inline-block
@@ -51,9 +70,8 @@ html, body
 .main-menu li:hover
   background: #333
 
-.main-menu li:hover a
+.main-menu li a:hover
   color: #fff
-  text-decoration: none
 
 .main-menu .home
   margin-left: 0
