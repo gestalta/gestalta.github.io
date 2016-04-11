@@ -66,11 +66,12 @@ a:hover, a:active, a:visited
   padding: 0 5px
   margin: 0
 
-.main-menu li:hover
+.main-menu li a:hover, .main-menu li a.nav-active
   background: #333
-
-.main-menu li a:hover
   color: #fff
+
+a:active
+  text-decoration: none !important
 
 .main-menu .home
   margin-left: 0
