@@ -22,7 +22,7 @@ $(function(){
       var theID = sections[i];
       var divPos = $(theID).offset().top; // get the offset of the div from the top of page
       var divHeight = $(theID).height(); // get the height of the div in question
-      if (windowPos + 180 >= divPos && windowPos + 180 < (divPos + divHeight)) {
+      if (windowPos + 180 >= divPos && windowPos + 200 < (divPos + divHeight)) {
         $("a[href='" + theID + "']").addClass("nav-active");
       } else {
         $("a[href='" + theID + "']").removeClass("nav-active");
