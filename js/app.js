@@ -23,17 +23,17 @@ $(function(){
       var divPos = $(theID).offset().top; // get the offset of the div from the top of page
       var divHeight = $(theID).height(); // get the height of the div in question
       if (windowPos + 180 >= divPos && windowPos + 200 < (divPos + divHeight)) {
-        $("a[href='" + theID + "']").addClass("nav-active");
+        $("a[href='" + theID + "']").parent().addClass("nav-active");
       } else {
-        $("a[href='" + theID + "']").removeClass("nav-active");
+        $("a[href='" + theID + "']").parent().removeClass("nav-active");
       }
     }
 
     if(windowPos + windowHeight == docHeight) {
-      if (!$("nav li:last-child a").hasClass("nav-active")) {
-        var navActiveCurrent = $(".nav-active").attr("href");
-        $("a[href='" + navActiveCurrent + "']").removeClass("nav-active");
-        $("nav li:last-child a").addClass("nav-active");
+      if (!$("nav li:last-child").hasClass("nav-active")) {
+        var navActiveCurrent = $(".nav-active a").attr("href");
+        $("a[href='" + navActiveCurrent + "']").parent().removeClass("nav-active");
+        $("nav li:last-child").addClass("nav-active");
       }
     }
   });

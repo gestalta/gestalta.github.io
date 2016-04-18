@@ -52,12 +52,14 @@ a:hover, a:active, a:visited
   background: white
   text-transform: uppercase
   font-size: 20px
+  line-height: 22px
   text-align: right
   list-style: none
   padding: 10px 0
 
 .main-menu li
   width: 100%
+  padding-top: 5px
   display: block
   background: #fff
   @media (min-width: $screen-sm-min)
@@ -65,15 +67,19 @@ a:hover, a:active, a:visited
     display: inline-block
     margin: 0 0 0 40px
 
+.main-menu li
+
 .main-menu li a
+  display: block
   padding: 0 5px
   margin: 0
 
-.main-menu li a:hover, .main-menu li a.nav-active
+.main-menu li:hover, .main-menu li.nav-active
   background: #333
-  color: #fff
+  a
+    color: #fff
 
-a:active
+.main-menu a:hover, .main-menu a:active, .main-menu a:link, .main-menu a:visited
   text-decoration: none !important
 
 .main-menu .home
