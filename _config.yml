@@ -9,10 +9,7 @@
 title: "GESTALTA - Artist, Performer & Model"
 email: gestalta22@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gestalta is a Shibari (kinbaku/rope) artist, performer, and teacher.
-  (Rigging, self-suspension, installations).
-  As well as this, Gestalta is both a model and photographer. She is based in London.
-
+  Gestalta is an artist, photographer and model based in London, UK. She specialises in shibari (kinbaku / Japanese rope bondage) as both a performance artist and teacher.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gestalta.co.uk" # the base hostname & protocol for your site
 twitter_username: gestalta
