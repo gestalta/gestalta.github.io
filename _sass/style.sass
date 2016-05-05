@@ -8,6 +8,9 @@ a
 a:hover, a:active, a:visited
   text-decoration: none
 
+.gestalta
+  @extend .jp
+
 .title
   @extend .jp
   position: relative
@@ -67,8 +70,6 @@ a:hover, a:active, a:visited
     display: inline-block
     margin: 0 0 0 40px
 
-.main-menu li
-
 .main-menu li a
   display: block
   padding: 0 5px
@@ -101,3 +102,43 @@ a:hover, a:active, a:visited
   display: inline-block
   @media (min-width: $screen-sm-min)
     width: 50%
+
+.menu-bar
+  text-align: left
+  background: white
+  height: 95vh
+  position: absolute
+  width: 215px
+  margin-left: 50px
+  top: 0
+  margin-top: 30px
+  padding: 0 10px
+
+.menu-bar-options
+  list-style: none
+  padding-left: 0
+
+.scrolling-gallery
+  height: 90vh
+  width: 100vw
+  overflow-x: auto
+  overflow-y: hidden
+
+.scrolling-gallery-inner
+  padding-left: 255px
+  height: 100%
+  width: auto
+  white-space: nowrap
+
+.scrolling-gallery-image-container
+  display: inline-block
+  height: 100%
+  margin: 0 10px
+
+.scrolling-gallery-image
+  height: calc(100% - 60px)
+
+.scrolling-gallery-image-caption
+  background: red
+  white-space: wrap
+  height: 60px
