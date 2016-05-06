@@ -104,6 +104,7 @@ a:hover, a:active, a:visited
     width: 50%
 
 .menu-bar
+  z-index: 9999
   text-align: left
   background: white
   height: 95vh
@@ -131,14 +132,17 @@ a:hover, a:active, a:visited
   white-space: nowrap
 
 .scrolling-gallery-image-container
+  position: relative
   display: inline-block
   height: 100%
   margin: 0 10px
 
 .scrolling-gallery-image
-  height: calc(100% - 60px)
+  height: calc(100% - 40px)
 
 .scrolling-gallery-image-caption
-  background: red
-  white-space: wrap
-  height: 60px
+  text-align: left
+  position: absolute
+  white-space: normal
+  height: 40px
+  padding: 5px 0
