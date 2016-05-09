@@ -10,6 +10,12 @@ a:hover, a:active, a:visited
 
 .gestalta
   @extend .jp
+  float: left
+  margin: 0
+  z-index: 9999
+  padding-top: 10px
+  padding-left: 60px
+
 
 .title
   @extend .jp
@@ -103,6 +109,8 @@ a:hover, a:active, a:visited
   @media (min-width: $screen-sm-min)
     width: 50%
 
+// main sites
+// menu bar
 .menu-bar
   z-index: 9999
   text-align: left
@@ -112,12 +120,43 @@ a:hover, a:active, a:visited
   width: 215px
   margin-left: 50px
   top: 0
-  margin-top: 30px
+  margin-top: 40px
   padding: 0 10px
+  padding-top: 40px
 
-.menu-bar-options
+.menu-bar-section
+  padding-left: 0
+  text-transform: uppercase
+
+.menu-bar-title
   list-style: none
   padding-left: 0
+  font-size: 15px
+  margin-bottom: 2px
+  font-weight: bold
+
+.menu-bar-options
+  font-size: 13px
+  line-height: 1.2
+  list-style: none
+  padding-left: 0
+
+.menu-bar-options a
+  color: #333
+
+.menu-bar-options a:hover
+  color: white
+  background-color: #333
+
+.menu-bar-options a.nav-active
+  color: white
+  background-color: #333
+
+.menu-bar-options li a
+  padding: 0
+  margin: 0
+
+// scrolling gallery
 
 .scrolling-gallery
   height: 90vh
@@ -146,3 +185,115 @@ a:hover, a:active, a:visited
   white-space: normal
   height: 40px
   padding: 5px 0
+  font-size: 13px
+  line-height: 1.1
+
+// gallery archive
+
+.scrolling-gallery-archive-title
+  text-align: right
+  text-transform: uppercase
+  position: absolute
+  white-space: normal
+  height: 40px
+  padding: 5px 0
+  font-size: 25px
+  line-height: 1.1
+  color: #333
+
+.archive-gallery-hover:hover .scrolling-gallery-archive-title
+  color: orange
+
+.archive-gallery-hover:hover .link-image
+  opacity: 0.5
+
+// archive item
+
+.scrolling-gallery-archive-item-caption
+  position: relative
+  display: inline-block
+  height: auto
+  margin: 0 10px
+  padding-left: 20px
+  padding-bottom: 40px
+  max-width: 300px
+  white-space: normal
+  vertical-align: bottom
+  line-height: 15px
+
+.scrolling-gallery-archive-item-caption-title
+  font-size: 17px
+  font-weight: bold
+  text-transform: uppercase
+
+.scrolling-gallery-archive-item-caption-date-location
+  font-size: 15px
+  text-transform: uppercase
+  margin-bottom: 8px
+
+.scrolling-gallery-archive-item-caption-description
+  font-style: italic
+  font-size: 14px
+  margin-bottom: 8px
+  text-transform: lowercase
+
+.scrolling-gallery-archive-item-caption-credits
+  font-size: 15px
+  text-transform: uppercase
+
+
+  //for text page2
+.information-page
+  width: 100%
+  padding-left: 350px
+
+.information-text-h1
+  padding-top: 20px
+  padding-bottom: 20px
+  text-transform: uppercase
+  @extend .jp-minus
+  position: relative
+  z-index: 4
+  pointer-events: none
+  font-size: 60px
+  @media (min-width: $screen-sm-min)
+    font-size: 30px
+  @media (min-width: $screen-md-min)
+    font-size: 50px
+  @media (min-width: $screen-lg-min)
+    font-size: 70px
+
+.information-text-h2
+  text-transform: uppercase
+  font-weight: bold
+  font-size: 25px
+
+.information-text
+  height: calc(100vh - 100px)
+  overflow: scroll
+  padding-right: 200px
+  position: fixed
+  padding-bottom: 300px
+
+.information-list
+  list-style: none
+  padding-right: 30px
+
+.text-image-left
+  float: left
+  white-space: normal
+  width: 50%
+  height: auto
+  padding-right: 15px
+  padding-bottom: 15px
+
+.text-image-right
+  float: right
+  white-space: normal
+  width: 50%
+  height: auto
+  padding-left: 15px
+  padding-bottom: 15px
+
+.text-image-centre
+  width: 100%

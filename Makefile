@@ -1,5 +1,5 @@
 run:
-	bundle exec jekyll serve --port 3001
+	bundle exec jekyll serve --port 3002
 
 browse:
-	open http://localhost:3001
+	open http://localhost:3002
