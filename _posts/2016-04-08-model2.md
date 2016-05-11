@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: art-gallery
 title:  "portfolio II"
 date:   2016-04-08 21:17:59 +0100
 permalink: /:categories/portfolio2

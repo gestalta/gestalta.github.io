@@ -1,16 +1,16 @@
 ---
-layout: gallery-archive
+layout: shibari-eventarchive
 title:  The Soap Box
 date:   2016-04-08 21:17:59 +0100
-permalink: /:categories/thesoapbox
+permalink: /upcomingevents/thesoapbox
 categories:
- - eventarchive
-locationdate: London // 1 April 2016
+ - archiveevent
+locationdate: 1 April 2016 // London
+mainimage: test/soapbox-april1.jpg
 credits:
   Rigger > Gestalta </br>
   Model > Sophia </br>
   Photography > MissBones, InViaggio
-mainimage: test/soapbox-april1.jpg
 images:
  - url: test/johncage.jpg
    caption: hello cat
