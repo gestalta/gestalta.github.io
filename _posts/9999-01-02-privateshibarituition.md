@@ -2,11 +2,9 @@
 layout: text-page
 title:  "Private Shibari Tuition"
 date:   2016-04-08 21:17:59 +0100
-permalink: /:categories/:title
+permalink: /privateshibarituition
 categories:
  - teaching
-locationdate: 1 April 2016 // London
-mainimage: test/soapbox-april1.jpg
 ---
 
 <p>
