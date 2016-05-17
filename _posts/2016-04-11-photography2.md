@@ -6,10 +6,34 @@ permalink: /:categories/portfolio2
 categories:
  - photography
 images:
- - url: test/johncage.jpg
+ - url: photography/2/gestalta-akari1.jpg
    caption: hello cat
- - url: test/avalonandnoshibari.jpg
+ - url: photography/2/gestalta-akari2.jpg
    caption: hello dog
- - url: test/soapbox-april1.jpg
+ - url: photography/2/gestalta-akari3.jpg
    caption: hello mouse
+ - url: photography/2/gestalta-akari4.jpg
+   caption: hello cat
+ - url: photography/2/gestalta-akari5.jpg
+   caption: hello dog
+ - url: photography/2/gestalta-akari6.jpg
+   caption: hello mouse
+ - url: photography/2/gestalta-akari7.jpg
+   caption: hello cat
+ - url: photography/2/gestalta-akari8.jpg
+   caption: hello dog
+ - url: photography/2/gestalta-akari9.jpg
+   caption: hello mouse
+ - url: photography/2/gestalta-akari10.jpg
+   caption: hello mouse
+ - url: photography/2/gestalta-akari11.jpg
+   caption: hello cat
+ - url: photography/2/gestalta-akari12.jpg
+   caption: hello dog
+ - url: photography/2/gestalta-akari13.jpg
+   caption: hello mouse
+ - url: photography/2/gestalta-akari14.jpg
+   caption: hello cat
+ - url: photography/2/gestalta-akari15.jpg
+   caption: hello dog
 ---

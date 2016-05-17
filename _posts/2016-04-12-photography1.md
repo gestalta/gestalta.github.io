@@ -6,10 +6,24 @@ permalink: /:categories/portfolio1
 categories:
  - photography
 images:
- - url: test/johncage.jpg
+ - url: photography/gestalta-roxanne1.jpg
    caption: hello cat
- - url: test/avalonandnoshibari.jpg
+ - url: photography/gestalta-roxanne2.jpg
    caption: hello dog
- - url: test/soapbox-april1.jpg
+ - url: photography/gestalta-roxanne3.jpg
+   caption: hello mouse
+ - url: photography/gestalta-selfportrait1.jpg
+   caption: hello cat
+ - url: photography/gestalta-selfportrait2.jpg
+   caption: hello dog
+ - url: photography/gestalta-selfportrait3.jpg
+   caption: hello mouse
+ - url: photography/gestalta-akari1.jpg
+   caption: hello cat
+ - url: photography/gestalta-akari2.jpg
+   caption: hello dog
+ - url: photography/gestalta-akari3.jpg
+   caption: hello mouse
+ - url: photography/gestalta-vanessa1.jpg
    caption: hello mouse
 ---
