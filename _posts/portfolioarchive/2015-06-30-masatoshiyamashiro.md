@@ -12,29 +12,29 @@ credits:
   Stylist: Takashi Mizukuchi</br>
   Makeup: Nori"
 mainimage: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro3.jpg
-mainimagealt: something
+mainimagealt: Gestalta photographed by Masatoshi Yamashiro in Tokyo, Japan. Model posing with vintage cars, wearing Alexander McQueen.
 images:
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro3.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Faded, vintage style picture of seated woman with undone shirt.
+   alt: Gestalta photographed by Masatoshi Yamashiro in Tokyo, Japan. Model posing with vintage cars, wearing Alexander McQueen.
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro7.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Picture of girl in blue dress in a vintage style room.
+   alt: Gestalta photographed by Masatoshi Yamashiro. Nude girl with long, dark hair in an industrial setting.
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro5.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Girl in a red dress and red lipstick smoking a cigarette
+   alt: Gestalta photographed by Masatoshi Yamashiro. Nude girl with long, dark hair and high heels.
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro1.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Girl in a red dress reclines in a Japanese garden
- - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro6.jpg
-   caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Girl in a red dress reclines in a Japanese garden
+   alt: Gestalta photographed by Masatoshi Yamashiro. Nude woman with welding equipment
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro2.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Girl in a red dress reclines in a Japanese garden
+   alt: Gestalta photographed by Masatoshi Yamashiro. Nude woman with Alexander McQueen jacket poses in vintage car workshop
+ - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro6.jpg
+   caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
+   alt: Gestalta photographed by Masatoshi Yamashiro. Portrait in an industrial setting
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro4.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
-   alt: Gestalta photographed by Masatoshi Yamashiro. Girl in a red dress reclines in a Japanese garden
+   alt: Gestalta photographed by Masatoshi Yamashiro. Portrait
 
 ---
 

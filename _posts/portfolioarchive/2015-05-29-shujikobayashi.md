@@ -10,14 +10,14 @@ credits:
   "Photographer: Shuji Kobayashi</br>
   Model: Gestalta"
 mainimage: model/2015-05-shujikobayashi/gestalta-shujikobayashi1.jpg
-mainimagealt: something
+mainimagealt: Gestalta photographed by Shuji Kobayashi, Japan, Faded vintage style picture of seated woman with undone shirt
 images:
  - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi1.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
-   alt: Gestalta photographed by Shuji Kobayashi. Faded, vintage style picture of seated woman with undone shirt.
+   alt: Gestalta photographed by Shuji Kobayashi. Faded, vintage style picture of seated woman with undone shirt
  - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi2.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
-   alt: Gestalta photographed by Shuji Kobayashi. Picture of girl in blue dress in a vintage style room.
+   alt: Gestalta photographed by Shuji Kobayashi. Picture of girl in blue dress in a vintage style room
  - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi3.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
    alt: Gestalta photographed by Shuji Kobayashi. Girl in a red dress and red lipstick smoking a cigarette

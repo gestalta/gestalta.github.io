@@ -10,18 +10,19 @@ credits:
   "Photographer: Adam Rowney</br>
   Model: Gestalta"
 mainimage: model/2012-02-adamrowney/gestalta-adamrowney2.jpg
-mainimagealt: something
+mainimagealt: Gestalta photographed by Adam Rowney. Golden, painterly portrait of a girl with peacock feather necklace
 images:
  - url: model/2012-02-adamrowney/gestalta-adamrowney1.jpg
-   caption: hello cat
-   alt:
+   caption: "Photo: Adam Rowney / Model: Gestalta / Cambridge, February 2012"
+   alt: Gestalta photographed by Adam Rowney. Golden, painterly portrait of a girl with peacock feather necklace
  - url: model/2012-02-adamrowney/gestalta-adamrowney2.jpg
-   caption: hello cat
-   alt:
+   caption: "Photo: Adam Rowney / Model: Gestalta / Cambridge, February 2012"
+   alt: Gestalta photographed by Adam Rowney. Golden, painterly portrait of a girl with peacock feather necklace
  - url: model/2012-02-adamrowney/gestalta-adamrowney3.jpg
-   caption: hello cat
-   alt:
+   caption: "Photo: Adam Rowney / Model: Gestalta / Cambridge, February 2012"
+   alt: Gestalta photographed by Adam Rowney. Golden, painterly portrait of a girl with peacock feather necklace
 
 ---
+"A painter and a peacock"
 
 Shot in Cambridge, UK. February 2012

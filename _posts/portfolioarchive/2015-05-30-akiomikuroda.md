@@ -13,7 +13,7 @@ credits:
   Make-up: Rie Yoshizawa</br>
   Stylist: Ayaka Sato"
 mainimage: model/2015-05-akiomikuroda/gestalta-akiomikuroda1.jpg
-mainimagealt: something
+mainimagealt: Gestalta photographed by Akiomi Kuroda, japan, Hyperreal picture of a girl in a Japanese Landscape
 images:
  - url: model/2015-05-akiomikuroda/gestalta-akiomikuroda1.jpg
    caption: "Photo: Akiomi Kuroda / Model: Gestalta / Japan, May 2015"
@@ -118,8 +118,6 @@ images:
    caption: "Photo: Akiomi Kuroda / Japan, May 2015"
    alt: Photograph of cranes against a yellow and blue skyline.
 
-
 ---
 
-
-Shot in Chiba, Japan.
+Shot in Chiba, Japan - May, 2015.
