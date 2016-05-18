@@ -1,7 +1,7 @@
 ---
 layout: art-galleryarchiveitem
 title:  Masatoshi Yamashiro
-date:   2015-06-29 21:17:59 +0100
+date:   2015-06-30 21:17:59 +0100
 permalink: /portfolioarchive/masatoshiyamashiro
 categories:
  - archiveart
@@ -12,6 +12,7 @@ credits:
   Stylist: Takashi Mizukuchi</br>
   Makeup: Nori"
 mainimage: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro3.jpg
+mainimagealt: something
 images:
  - url: model/2015-06-masatoshiyamashiro/gestalta-masatoshiyamashiro3.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"

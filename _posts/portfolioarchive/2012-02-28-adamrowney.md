@@ -10,6 +10,7 @@ credits:
   "Photographer: Adam Rowney</br>
   Model: Gestalta"
 mainimage: model/2012-02-adamrowney/gestalta-adamrowney2.jpg
+mainimagealt: something
 images:
  - url: model/2012-02-adamrowney/gestalta-adamrowney1.jpg
    caption: hello cat

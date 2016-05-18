@@ -6,10 +6,32 @@ permalink: /:categories/portfolio3
 categories:
  - photography
 images:
- - url: test/johncage.jpg
-   caption: hello cat
- - url: test/avalonandnoshibari.jpg
-   caption: hello dog
- - url: test/soapbox-april1.jpg
-   caption: hello mouse
+  - url: photography/3/gestalta-fredau1.jpg
+    caption: hello cat
+  - url: photography/2/gestalta-akari2.jpg
+    caption: hello dog
+  - url: photography/2/gestalta-akari3.jpg
+    caption: hello mouse
+  - url: photography/2/gestalta-akari4.jpg
+    caption: hello cat
+  - url: photography/2/gestalta-akari5.jpg
+    caption: hello dog
+  - url: photography/3/gestalta-rebeccatun6.jpg
+    caption: hello mouse
+  - url: photography/3/gestalta-rebeccatun2.jpg
+    caption: hello cat
+  - url: photography/3/gestalta-rebeccatun3.jpg
+    caption: hello dog
+  - url: photography/3/gestalta-rebeccatun4.jpg
+    caption: hello mouse
+  - url: photography/3/gestalta-rebeccatun5.jpg
+    caption: hello mouse
+  - url: photography/3/gestalta-rebeccatun1.jpg
+    caption: hello cat
+  - url: photography/3/gestalta-skinnyredhead1.jpg
+    caption: hello dog
+  - url: photography/3/gestalta-skinnyredhead2.jpg
+    caption: hello mouse
+  - url: photography/3/geographical-eventualities.jpg
+    caption: hello dog
 ---

@@ -30,10 +30,8 @@ images:
    caption: hello cat
  - url: photography/2/gestalta-akari12.jpg
    caption: hello dog
- - url: photography/2/gestalta-akari13.jpg
-   caption: hello mouse
- - url: photography/2/gestalta-akari14.jpg
-   caption: hello cat
  - url: photography/2/gestalta-akari15.jpg
+   caption: hello mouse
+ - url: photography/2/gestalta-akari13.jpg
    caption: hello dog
 ---

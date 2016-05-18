@@ -10,6 +10,7 @@ credits:
   "Photographer: Rebecca Tun</br>
   Model: Gestalta"
 mainimage: model/2012-02-rebeccatun2/gestalta-rebeccatun2.jpg
+mainimagealt: something
 images:
  - url: model/2012-02-rebeccatun2/gestalta-rebeccatun1.jpg
    caption: hello cat

@@ -10,6 +10,7 @@ credits:
   "Photographer: Rebecca Tun</br>
   Model: Gestalta"
 mainimage: model/2013-08-rebeccatun/gestalta-rebeccatun3.jpg
+mainimagealt: something
 images:
  - url: model/2013-08-rebeccatun/gestalta-rebeccatun3.jpg
    caption:
@@ -30,7 +31,7 @@ images:
    caption:
    alt:
  - url: model/2013-08-rebeccatun/gestalta-rebeccatun2.jpg
-   caption: 
+   caption:
    alt:
 ---
 

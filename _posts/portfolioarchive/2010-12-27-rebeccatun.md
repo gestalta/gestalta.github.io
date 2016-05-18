@@ -10,6 +10,7 @@ credits:
   "Photographer: Rebecca Tun</br>
   Model: Gestalta"
 mainimage: model/2010-12-rebeccatun/gestalta-rebeccatun1.jpg
+mainimagealt: something
 images:
  - url: model/2010-12-rebeccatun/gestalta-rebeccatun1.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Wiltshire, UK. December 2010"

@@ -1,7 +1,7 @@
 ---
 layout: art-galleryarchiveitem
 title:  Akiomi Kuroda
-date:   2016-04-08 21:17:59 +0100
+date:   2015-05-30 21:17:59 +0100
 permalink: /portfolioarchive/akiomikuroda
 categories:
  - archiveart
@@ -13,6 +13,7 @@ credits:
   Make-up: Rie Yoshizawa</br>
   Stylist: Ayaka Sato"
 mainimage: model/2015-05-akiomikuroda/gestalta-akiomikuroda1.jpg
+mainimagealt: something
 images:
  - url: model/2015-05-akiomikuroda/gestalta-akiomikuroda1.jpg
    caption: "Photo: Akiomi Kuroda / Model: Gestalta / Japan, May 2015"

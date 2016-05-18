@@ -10,6 +10,7 @@ credits:
   "Photographer: Shuji Kobayashi</br>
   Model: Gestalta"
 mainimage: model/2015-05-shujikobayashi/gestalta-shujikobayashi1.jpg
+mainimagealt: something
 images:
  - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi1.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
