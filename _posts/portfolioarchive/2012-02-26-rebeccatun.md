@@ -10,38 +10,25 @@ credits:
   "Photographer: Rebecca Tun</br>
   Model: Gestalta"
 mainimage: model/2012-02-rebeccatun2/gestalta-rebeccatun2.jpg
-mainimagealt: something
+mainimagealt: Gestalta photographed by Rebecca Tun, with white lace and flowers
 images:
  - url: model/2012-02-rebeccatun2/gestalta-rebeccatun1.jpg
-   caption: hello cat
-   alt:
+   caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
+   alt: Gestalta photographed by Rebecca Tun.
  - url: model/2012-02-rebeccatun2/gestalta-rebeccatun2.jpg
-   caption: hello cat
+   caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt:
  - url: model/2012-02-rebeccatun2/gestalta-rebeccatun3.jpg
-   caption: hello cat
-   alt:
+   caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
+   alt: Gestalta photographed by Rebecca Tun.
  - url: model/2012-02-rebeccatun2/gestalta-rebeccatun5.jpg
-   caption: hello cat
+   caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt:
  - url: model/2012-02-rebeccatun2/gestalta-rebeccatun4.jpg
-   caption: hello cat
-   alt:
+   caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
+   alt: Gestalta photographed by Rebecca Tun.
 ---
 
-It’s an interesting point that ‘open leg’ seems to have become a genre in it’s own right rather than just a pose. Realism is a central feature of that genre, perhaps in order to facilitate fantasy by making the subject convincingly 'obtainable'.
+It’s an interesting point that ‘open leg’ has now become a genre in it’s own right rather than just a pose. With realism as a central feature of that genre in the mainstream (presumably to, paradoxically, facilitate fantasy) it has gained a reputation for being artless and vapid.
 
-In removing all realism from the scenario, and thus removing the genre from it's context
-
-Detachment
-aloof posed
-surreality
-no part of the body is more or less presentable per s
-
-What I want to say is that because no body part should be more or less presentable it should be possible to create non porn photos.
-But I want to know... at what point does it become porn, is it purely contextual, or is it more than that, or less than that. the end
-
-surreality
-detached, posed, and perhaps even a little aloof.
-on noticing deliberate intimate and knowing exposure
-A bit like Panayiotis Lamprou’s Portrait 'My British Wife'
+Pictures such as Panayiotis Lamprou's portrait 'My British Wife' challenge the idea that there are some parts of human anatomy that are intrinsically more presentable than others by portraying deliberate, intimate and knowing exposure in the context of art, but invariably cause controversy. This series was an experiment, to see if removing all realism from the scenario, and thus detaching the genre from it's context, could create an entirely uncontroversial image, and to see if it could be possible to rehabilitate 'open leg'?

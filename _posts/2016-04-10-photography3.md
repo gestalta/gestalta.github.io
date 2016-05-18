@@ -8,14 +8,10 @@ categories:
 images:
   - url: photography/3/gestalta-fredau1.jpg
     caption: hello cat
-  - url: photography/2/gestalta-akari2.jpg
+  - url: photography/3/gestalta-skinnyredhead1.jpg
     caption: hello dog
-  - url: photography/2/gestalta-akari3.jpg
+  - url: photography/3/gestalta-skinnyredhead2.jpg
     caption: hello mouse
-  - url: photography/2/gestalta-akari4.jpg
-    caption: hello cat
-  - url: photography/2/gestalta-akari5.jpg
-    caption: hello dog
   - url: photography/3/gestalta-rebeccatun6.jpg
     caption: hello mouse
   - url: photography/3/gestalta-rebeccatun2.jpg
@@ -28,10 +24,6 @@ images:
     caption: hello mouse
   - url: photography/3/gestalta-rebeccatun1.jpg
     caption: hello cat
-  - url: photography/3/gestalta-skinnyredhead1.jpg
-    caption: hello dog
-  - url: photography/3/gestalta-skinnyredhead2.jpg
-    caption: hello mouse
   - url: photography/3/geographical-eventualities.jpg
     caption: hello dog
 ---
