@@ -8,7 +8,8 @@ categories:
 locationdate: Cambridge // 2012
 credits:
   "Photographer: Rebecca Tun</br>
-  Model: Gestalta"
+  Model: Gestalta</br>
+  Edit: Gestalta"
 mainimage: model/2012-02-rebeccatun/gestalta-rebeccatun1.jpg
 mainimagealt: Gestalta photographed by Rebecca Tun. Muted monochrome image of statuesque black clad woman
 images:

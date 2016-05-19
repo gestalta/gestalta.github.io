@@ -41,6 +41,7 @@ images:
    alt: Gestalta photographed by Adam Rowney. Red and grey portrait
 ---
 
-"Songs in Red and Grey."
-Shot in London, UK. February 2014.
-Photography and edit by Adam Rowney. Model, hair and MUA: Gestalta
+"Songs in Red and Grey."<br>
+Shot in London, UK. February 2014.<br>
+Photography and edit by Adam Rowney.<br>
+Model, hair and MUA: Gestalta

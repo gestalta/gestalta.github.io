@@ -144,12 +144,13 @@ a:hover, a:active, a:visited
 .submenu-options a
   color: #333
 
-.submenu a:hover, .submenu a:active, .submenu a:link, .submenu a:visited
-  text-decoration: none !important
-
-.submenu-options a:hover, .submenu-options a:active
+.submenu-options a:hover
   color: white
-  background: #333
+  background-color: #333
+
+.submenu-options a.nav-active
+  color: white
+  background-color: #333
 
 .submenu-options li a
   padding: 0 3px
@@ -160,59 +161,23 @@ a:hover, a:active, a:visited
 .scrolling-gallery
   height: 90vh
   width: 100vw
-  overflow-x: hidden
-  overflow-y: auto
-  @media (min-width: $screen-sm-min)
-    overflow-x: hidden
-    overflow-y: auto
-  @media (min-width: $screen-md-min)
-    overflow-x: auto
-    overflow-y: hidden
-  @media (min-width: $screen-lg-min)
-    overflow-x: auto
-    overflow-y: hidden
+  overflow-x: auto
+  overflow-y: hidden
 
 .scrolling-gallery-inner
   padding-left: 255px
   height: 100%
   width: auto
-  white-space: normal
-  @media (min-width: $screen-sm-min)
-    white-space: normal
-  @media (min-width: $screen-md-min)
-    white-space: nowrap
-  @media (min-width: $screen-lg-min)
-    white-space: nowrap
+  white-space: nowrap
 
 .scrolling-gallery-image-container
   position: relative
-  display: block
+  display: inline-block
+  height: 100%
   margin: 0 10px
-  padding-bottom: 40px
-  @media (min-width: $screen-sm-min)
-    display: block
-    padding-bottom: 40px
-  @media (min-width: $screen-md-min)
-    display: inline-block
-    height: 100%
-    padding-bottom: 0
-  @media (min-width: $screen-lg-min)
-    display: inline-block
-    height: 100%
-    padding-bottom: 0
 
 .scrolling-gallery-image
-  width: calc(100%)
-  height: auto
-  @media (min-width: $screen-sm-min)
-    width: calc(100%)
-    height: auto
-  @media (min-width: $screen-md-min)
-    height: calc(100% - 40px)
-    width: auto
-  @media (min-width: $screen-lg-min)
-    height: calc(100% - 40px)
-    width: auto
+  height: calc(100% - 40px)
 
 .scrolling-gallery-image-caption
   text-align: left
@@ -232,16 +197,9 @@ a:hover, a:active, a:visited
   white-space: normal
   height: 40px
   padding: 5px 0
+  font-size: 25px
   line-height: 1.1
   color: #333
-  font-size: 15px
-  @media (min-width: $screen-sm-min)
-    font-size: 15px
-  @media (min-width: $screen-md-min)
-    font-size: 20px
-  @media (min-width: $screen-lg-min)
-    font-size: 25px
-
 
 .archive-gallery-hover:hover .scrolling-gallery-archive-title
   color: orange
@@ -256,7 +214,6 @@ a:hover, a:active, a:visited
   display: inline-block
   height: auto
   margin: 0 10px
-  margin-top: 10px
   padding-left: 20px
   padding-bottom: 40px
   max-width: 300px
@@ -283,8 +240,8 @@ a:hover, a:active, a:visited
   font-size: 15px
   text-transform: uppercase
 
-//for text page2
 
+  //for text page2
 .information-page
   width: 100%
   padding-left: 350px
@@ -297,7 +254,7 @@ a:hover, a:active, a:visited
   position: relative
   z-index: 4
   pointer-events: none
-  font-size: 30px
+  font-size: 60px
   @media (min-width: $screen-sm-min)
     font-size: 30px
   @media (min-width: $screen-md-min)
@@ -313,16 +270,9 @@ a:hover, a:active, a:visited
 .information-text
   height: calc(100vh - 100px)
   overflow: scroll
+  padding-right: 200px
   position: fixed
   padding-bottom: 300px
-  padding-right: 20px
-  @media (min-width: $screen-sm-min)
-    padding-right: 20px
-  @media (min-width: $screen-md-min)
-    padding-right: 200px
-  @media (min-width: $screen-lg-min)
-    padding-right: 200px
-
 
 .information-list
   list-style: none
@@ -339,30 +289,18 @@ a:hover, a:active, a:visited
 .text-image-left
   float: left
   white-space: normal
-  width: 100%
+  width: 50%
   height: auto
+  padding-right: 15px
   padding-bottom: 15px
-  padding-left: 15px
-  @media (min-width: $screen-md-min)
-    width: 50%
-    padding-right: 15px
-    padding-left: 0px
-  @media (min-width: $screen-lg-min)
-    width: 50%
-    padding-right: 15px
-    padding-left: 0px
 
 .text-image-right
   float: right
   white-space: normal
-  width: 100%
+  width: 50%
   height: auto
   padding-left: 15px
   padding-bottom: 15px
-  @media (min-width: $screen-md-min)
-    width: 50%
-  @media (min-width: $screen-lg-min)
-    width: 50%
 
 .text-image-centre
   width: 100%

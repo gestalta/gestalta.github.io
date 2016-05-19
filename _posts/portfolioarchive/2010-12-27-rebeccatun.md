@@ -17,4 +17,4 @@ images:
    alt: Gestalta, photographed by Rebecca Tun.  Girl with long black hair standing in the snow, wearing a white skirt.
 ---
 
-Shot in Wiltshire, UK. December 2010
+An impromptu shoot, the morning after the party at which Rebecca and I first met. Wiltshire, UK. December 2010

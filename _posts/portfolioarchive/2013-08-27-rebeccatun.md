@@ -23,7 +23,7 @@ images:
    alt: Gestalta photographed by Rebecca Tun. Dreamlike, melancholic photograph of a woman in a white dress
  - url: model/2013-08-rebeccatun/gestalta-rebeccatun6.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Wiltshire, August 2013"
-   alt: Gestalta photographed by Rebecca Tun. Dreamlike, melancholic photograph of a woman wearing a white head scarf.
+   alt: Gestalta photographed by Rebecca Tun. Dreamlike, melancholic photograph of a woman wearing a white head scarf
  - url: model/2013-08-rebeccatun/gestalta-rebeccatun7.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Wiltshire, August 2013"
    alt: Gestalta photographed by Rebecca Tun. An endless summer captured.
