@@ -11,23 +11,23 @@ credits:
   Model: Gestalta</br>
   Edit: Gestalta"
 mainimage: model/2012-02-rebeccatun/gestalta-rebeccatun1.jpg
-mainimagealt: Gestalta photographed by Rebecca Tun. Muted monochrome image of statuesque black clad woman
+mainimagealt: Gestalta photographed by Rebecca Tun. statuesque monochrome image of black clad woman
 images:
  - url: model/2012-02-rebeccatun/gestalta-rebeccatun1.jpg
    caption: "Photo: Rebecca Tun / Model & Edit: Gestalta / Cambridge, February 2012"
-   alt: Gestalta photographed by Rebecca Tun. Muted monochrome image of statuesque black clad woman
+   alt: Gestalta photographed by Rebecca Tun. Muted monochrome image of black clad woman
  - url: model/2012-02-rebeccatun/gestalta-rebeccatun2.jpg
    caption: "Photo: Rebecca Tun / Model & Edit: Gestalta / Cambridge, February 2012"
-   alt: Gestalta photographed by Rebecca Tun. Muted geometric image of statuesque black clad woman
+   alt: Gestalta photographed by Rebecca Tun. geometric image of statuesque black clad woman
  - url: model/2012-02-rebeccatun/gestalta-rebeccatun3.jpg
    caption: "Photo: Rebecca Tun / Model & Edit: Gestalta / Cambridge, February 2012"
    alt: Gestalta photographed by Rebecca Tun. Muted geometric image of a woman in a silver room
  - url: model/2012-02-rebeccatun/gestalta-rebeccatun4.jpg
    caption: "Photo: Rebecca Tun / Model & Edit: Gestalta / Cambridge, February 2012"
-   alt: Gestalta photographed by Rebecca Tun. Muted monochrome image of statuesque black clad woman
+   alt: Gestalta photographed by Rebecca Tun. Muted monochrome image of a woman in black
  - url: model/2012-02-rebeccatun/gestalta-rebeccatun5.jpg
    caption: "Photo: Rebecca Tun / Model & Edit: Gestalta / Cambridge, February 2012"
-   alt: Gestalta photographed by Rebecca Tun. Fashion image of woman
+   alt: Gestalta photographed by Rebecca Tun. Monochrome fashion image of woman
  - url: model/2012-02-rebeccatun/gestalta-rebeccatun6.jpg
    caption: "Photo: Rebecca Tun / Model & Edit: Gestalta / Cambridge, February 2012"
    alt: Gestalta photographed by Rebecca Tun.
