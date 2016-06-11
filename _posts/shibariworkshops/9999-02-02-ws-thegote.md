@@ -4,7 +4,7 @@ title:  "Understanding the Gote"
 date:   2016-04-08 21:17:59 +0100
 permalink: /shibariworkshops/understandingthegote
 ---
-<img src="{{site.baseurl}}/img/shibari/gestaltamayagote.jpg" class="text-image-left" />
+<img src="{{site.baseurl}}/img/https://farm8.staticflickr.com/7692/27528990721_3f116b7d22.jpg" class="text-image-left" />
 This workshop is based around one of the most fundamental ties in shibari, the Gote (also known as takate kote, TK, or box tie). There are countless variations on this tie, but probably no such thing as the ‘perfect’ Gote. Rather than just give you a set pattern to follow I aim to give you a knowledge of the elements that make a good Gote work well, and choose the right one for the right situation…
 
 In this I will:<br>

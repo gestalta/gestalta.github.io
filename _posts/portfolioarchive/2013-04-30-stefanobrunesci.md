@@ -10,34 +10,34 @@ credits:
   "Photographer: Stefano Brunesci</br>
   Model: Gestalta</br>
   Retouch: Gestalta"
-mainimage: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci6.jpg
+mainimage: https://farm8.staticflickr.com/7726/27528156751_68b9ba4247.jpg
 mainimagealt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
 images:
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci2.jpg
+ - url: https://farm8.staticflickr.com/7458/27600906205_795838e83c.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci4.jpg
+ - url: https://farm8.staticflickr.com/7358/26991860783_b853399000.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci6.jpg
+ - url: https://farm8.staticflickr.com/7726/27528156751_68b9ba4247.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci9.jpg
+ - url: https://farm8.staticflickr.com/7443/26991865433_0860019191.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci1.jpg
+ - url: https://farm8.staticflickr.com/7324/27528150211_565b675d60.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci8.jpg
+ - url: https://farm8.staticflickr.com/7511/27501459512_5890c5daeb.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci3.jpg
+ - url: https://farm8.staticflickr.com/7330/27600907485_48d5f96a6d.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci7.jpg
+ - url: https://farm8.staticflickr.com/7327/27528157741_a152625a51.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
- - url: model/2013-04-stefanobrunesci/gestalta-stefanobrunesci5.jpg
+ - url: https://farm8.staticflickr.com/7796/27566968566_0fd28c2794.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, April 2013"
    alt: Gestalta photographed by Stefano Brunesci. High key, pure white beauty image
 ---

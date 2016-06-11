@@ -6,9 +6,9 @@ permalink: /events/thesoapbox-april
 categories:
  - archiveevent
 locationdate: 1 April 2016 // London
-mainimage: events/soapbox-april-flyer.jpg
+mainimage: https://farm8.staticflickr.com/7736/27601599655_016e31024f.jpg
 ---
-<img src="{{site.baseurl}}/img/events/soapbox-april-flyer.jpg" class="text-image-left" />
+<img src="{{site.baseurl}}/img/https://farm8.staticflickr.com/7736/27601599655_016e31024f.jpg" class="text-image-left" />
 
 <h2 class="information-text-h2">1st April 2016</h2>
 

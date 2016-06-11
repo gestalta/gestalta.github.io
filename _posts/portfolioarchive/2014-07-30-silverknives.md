@@ -9,16 +9,16 @@ locationdate: Wiltshire // July 2014
 credits:
   "Photographer: Gestalta</br>
   Model: Roxanne Summers"
-mainimage: photography/gestalta-roxanne2.jpg
+mainimage: https://farm8.staticflickr.com/7301/27600425355_1299c9d4f6.jpg
 mainimagealt: Photograph by Gestalta. A surreal scene of two women playing knife games
 images:
- - url: photography/gestalta-roxanne1.jpg
+ - url: https://farm8.staticflickr.com/7298/27566414546_6ac589be26.jpg
    caption: "Photo: Gestalta / Model: Roxanne Summers / Wiltshire, July 2014"
    alt: Photograph by Gestalta. A surreal scene, a woman has her hair cut with a knife
- - url: photography/gestalta-roxanne2.jpg
+ - url: https://farm8.staticflickr.com/7301/27600425355_1299c9d4f6.jpg
    caption: "Photo: Gestalta / Model: Roxanne Summers / Wiltshire, July 2014"
    alt: Photograph by Gestalta. A surreal scene of two women playing knife games
- - url: photography/gestalta-roxanne3.jpg
+ - url: https://farm8.staticflickr.com/7282/27600425995_8fc18d5ff0.jpg
    caption: "Photo: Gestalta / Model: Roxanne Summers / Wiltshire, July 2014"
    alt: Photograph by Gestalta. A surreal scene of two women practicing knife throwing
 ---

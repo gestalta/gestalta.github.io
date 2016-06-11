@@ -4,7 +4,7 @@ title:  "Intro to transitions"
 date:   2016-04-08 21:17:59 +0100
 permalink: /shibariworkshops/transitions
 ---
-<img src="{{site.baseurl}}/img/shibari/performance/2015-11-paris-gestalta-gorgone/paris-gestalta-gorgone40.jpg" class="text-image-left" />
+<img src="{{site.baseurl}}/img/https://farm8.staticflickr.com/7293/26992858003_c8268e509d.jpg" class="text-image-left" />
 This workshop is for students who are already able to perform a basic suspension, but want to move on to some more dynamic work.
 
 I will be showing you a sequence of the most straightforward (and also, in my opinion, some of the safest and most fun!) transitions in bondage, all of which can be performed using a standard gote, and hip harness; both of which I will review during the class and offer advice on how to improve it if necessary.

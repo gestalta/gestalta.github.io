@@ -6,24 +6,24 @@ permalink: /:categories/portfolio1
 categories:
  - photography
 images:
- - url: photography/gestalta-roxanne1.jpg
+ - url: https://farm8.staticflickr.com/7298/27566414546_6ac589be26.jpg
    caption: hello cat
- - url: photography/gestalta-roxanne2.jpg
+ - url: https://farm8.staticflickr.com/7301/27600425355_1299c9d4f6.jpg
    caption: hello dog
- - url: photography/gestalta-roxanne3.jpg
+ - url: https://farm8.staticflickr.com/7282/27600425995_8fc18d5ff0.jpg
    caption: hello mouse
- - url: photography/gestalta-selfportrait1.jpg
+ - url: https://farm8.staticflickr.com/7436/27323145100_db38384c3e.jpg
    caption: hello cat
- - url: photography/gestalta-selfportrait2.jpg
+ - url: https://farm8.staticflickr.com/7248/26990202514_a1fed0c9ac.jpg
    caption: hello dog
- - url: photography/gestalta-selfportrait3.jpg
+ - url: https://farm8.staticflickr.com/7390/27566427636_aa551b72cd.jpg
    caption: hello mouse
- - url: photography/gestalta-akari1.jpg
+ - url: https://farm8.staticflickr.com/7477/27501008642_05efd9ff04.jpg
    caption: hello cat
- - url: photography/gestalta-akari2.jpg
+ - url: https://farm8.staticflickr.com/7675/27501009222_fa4961b7d5.jpg
    caption: hello dog
- - url: photography/gestalta-akari3.jpg
+ - url: https://farm8.staticflickr.com/7068/27527555711_021af5b31a.jpg
    caption: hello mouse
- - url: photography/gestalta-vanessa1.jpg
+ - url: https://farm8.staticflickr.com/7309/27323160180_80aedf7c62.jpg
    caption: hello mouse
 ---

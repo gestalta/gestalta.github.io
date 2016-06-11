@@ -9,19 +9,19 @@ locationdate: Tokyo, Japan // May 2015
 credits:
   "Photographer: Shuji Kobayashi</br>
   Model: Gestalta"
-mainimage: model/2015-05-shujikobayashi/gestalta-shujikobayashi1.jpg
+mainimage: https://farm8.staticflickr.com/7409/26992724993_b57539eba0.jpg
 mainimagealt: Gestalta photographed by Shuji Kobayashi, Japan, Faded vintage style picture of seated woman with undone shirt
 images:
- - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi1.jpg
+ - url: https://farm8.staticflickr.com/7409/26992724993_b57539eba0.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
    alt: Gestalta photographed by Shuji Kobayashi. Faded, vintage style picture of seated woman with undone shirt
- - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi2.jpg
+ - url: https://farm8.staticflickr.com/7384/27324674320_a5af7ab229.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
    alt: Gestalta photographed by Shuji Kobayashi. Picture of girl in blue dress in a vintage style room
- - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi3.jpg
+ - url: https://farm8.staticflickr.com/7046/27528964941_af0e952067.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
    alt: Gestalta photographed by Shuji Kobayashi. Girl in a red dress and red lipstick smoking a cigarette
- - url: model/2015-05-shujikobayashi/gestalta-shujikobayashi4.jpg
+ - url: https://farm8.staticflickr.com/7612/26991630584_be98d1aea9.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
    alt: Gestalta photographed by Shuji Kobayashi. Girl in a red dress reclines in a Japanese garden
 
