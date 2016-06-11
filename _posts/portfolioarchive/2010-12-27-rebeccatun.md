@@ -9,10 +9,10 @@ locationdate: Wiltshire // December 2010
 credits:
   "Photographer: Rebecca Tun</br>
   Model: Gestalta"
-mainimage: model/2010-12-rebeccatun/gestalta-rebeccatun1.jpg
+mainimage: https://c1.staticflickr.com/8/7438/26954722624_c56acb4b8c_o.jpg
 mainimagealt: Gestalta, photographed by Rebecca Tun.  Girl with long black hair standing in the snow, wearing a white skirt.
 images:
- - url: model/2010-12-rebeccatun/gestalta-rebeccatun1.jpg
+ - url: https://c1.staticflickr.com/8/7438/26954722624_c56acb4b8c_o.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Wiltshire, UK. December 2010"
    alt: Gestalta, photographed by Rebecca Tun.  Girl with long black hair standing in the snow, wearing a white skirt.
 ---

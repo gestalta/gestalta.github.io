@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Introduction To Shibari"
 date:   2016-04-08 21:17:59 +0100
-permalink: /upcomingevents/beginner-shibari-workshops
+permalink: /events/beginner-shibari-workshops
 categories:
  - archiveevent
 locationdate: Monthly // London
@@ -37,7 +37,7 @@ Dates for 2016, and a description of the workshop content are listed at the belo
 <li>May 15th</li>
 <li>June 19th</li>
 <li>July 17th</li>
-<li>August 14th</li>
+<li>August 21st</li>
 <li>September 18th</li>
 <li>October 16th</li>
 <li>November 20th</li>
