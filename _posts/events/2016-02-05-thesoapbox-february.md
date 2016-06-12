@@ -6,9 +6,9 @@ permalink: /events/thesoapbox-february
 categories:
  - archiveevent
 locationdate: 5 February 2016 // London
-mainimage: https://farm8.staticflickr.com/7460/27502164752_5881897266.jpg
+mainimage: events/soapbox-february-flyer.jpg
 ---
-<img src="{{site.baseurl}}/img/https://farm8.staticflickr.com/7460/27502164752_5881897266.jpg" class="text-image-left" />
+<img src="{{site.baseurl}}/img/events/soapbox-february-flyer.jpg" class="text-image-left" />
 
 <h2 class="information-text-h2">5th February 2016</h2>
 

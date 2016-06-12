@@ -11,25 +11,25 @@ credits:
   Photographer: Jeff Tuliniemi</br>
   Models: Gestalta / Maxine Anastasia</br>
   Hair & MUA: Hair and MUA: Jade Crean"
-mainimage: https://farm8.staticflickr.com/7501/27502206182_9ca3b4c4e2.jpg
+mainimage: https://farm8.staticflickr.com/7190/27523268792_5405205b3f_o.jpg
 mainimagealt: Photograph by Gestalta. A surreal scene of two women with their heads covered
 images:
- - url: https://farm8.staticflickr.com/7568/27501481492_8788ccc135.jpg
+ - url: https://farm8.staticflickr.com/7429/27012538874_a4c5bc70dd_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Jeff Tuliniemi / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7304/27324477530_5564b39e24.jpg
+ - url: https://farm8.staticflickr.com/7309/27013490423_738906d806_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Jeff Tuliniemi / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7375/27567639786_788c189c64.jpg
+ - url: https://farm8.staticflickr.com/7396/27523265982_a49340129e_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Jeff Tuliniemi / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7446/27528837161_35c6d0638e.jpg
+ - url: https://farm8.staticflickr.com/7055/27012578194_523ea3613b_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Jeff Tuliniemi / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7501/27502206182_9ca3b4c4e2.jpg
+ - url: https://farm8.staticflickr.com/7190/27523268792_5405205b3f_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7250/27601634505_6c4bda2e26.jpg
+ - url: https://farm8.staticflickr.com/7356/27589061076_7f72c6bdb7_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
  - url: model/2014-12-karolinalaskowska/gestalta-karolinalaskowska7.png
@@ -38,58 +38,58 @@ images:
  - url: model/2014-12-karolinalaskowska/gestalta-karolinalaskowska8.png
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7108/27567647386_13cc4a46eb.jpg
+ - url: https://farm8.staticflickr.com/7685/27012586774_b3f51d2c35_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Jeff Tuliniemi / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7421/26990774644_4787372c49.jpg
+ - url: https://farm8.staticflickr.com/7669/27012540124_d6cd40fd8b_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7418/26990777364_3c3a7271f5.jpg
+ - url: https://farm8.staticflickr.com/7728/27345325160_798068641f_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7425/26990779784_75172dbee5.jpg
+ - url: https://farm8.staticflickr.com/7410/27523246542_6f8d9b923d_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7505/26990782594_06bc09e24d.jpg
+ - url: https://farm8.staticflickr.com/7595/27622632325_9f699e3fdd_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7298/27501487672_3974b3c6d2.jpg
+ - url: https://farm8.staticflickr.com/7515/27589041966_4eabe2de60_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Jeff Tuliniemi / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7232/26992523543_cf9a131f90.jpg
+ - url: https://farm8.staticflickr.com/7385/27012548884_fb21a33aa0_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7083/27567612956_36cbf3f877.jpg
+ - url: https://farm8.staticflickr.com/7323/27013486543_1fae03c66d_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7796/27502169872_fc4ce87137.jpg
+ - url: https://farm8.staticflickr.com/7390/27013488053_11d9585ffa_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7781/27502177952_23797da4e8.jpg
+ - url: https://farm8.staticflickr.com/7313/27589047336_a2b005a6d4_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7330/26991448904_d65d1d94ea.jpg
+ - url: https://farm8.staticflickr.com/7357/27345340300_9c4a941b70_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7798/27324478580_1fd80b9392.jpg
+ - url: https://farm8.staticflickr.com/7749/27012558734_0590cc922a_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7140/27324479390_0a9bed6fb6.jpg
+ - url: https://farm8.staticflickr.com/7516/27523255652_3150899028_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7113/27502197502_f291c68214.jpg
+ - url: https://farm8.staticflickr.com/7221/27345345210_5ea43e48ea_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7130/27567633746_b3a94c8e12.jpg
+ - url: https://farm8.staticflickr.com/7295/27622649515_926b7a4a28_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:
- - url: https://farm8.staticflickr.com/7337/27567635426_488b818783.jpg
+ - url: https://farm8.staticflickr.com/7276/27012568574_22f921b79c_o.jpg
    caption: "Lingerie: Karolina Laskowska / Photo: Karolina Laskowska / Model: Gestalta"
    alt:
- - url: https://farm8.staticflickr.com/7363/26991471794_ca600024a2.jpg
+ - url: https://farm8.staticflickr.com/7359/27622652945_d8e0df2235_o.jpg
    caption: "Photo: Karolina Laskowska / Behind the scenese, Gestalta & Jade Crean"
    alt:
- - url: https://farm8.staticflickr.com/7391/26991473334_6055aa1ea9.jpg
+ - url: https://farm8.staticflickr.com/7456/27622655505_ccdf8b38dd_o.jpg
    caption: "Lingerie: Karolina Laskowska / Polaroid: Karolina Laskowska / Models: Gestalta & Maxine"
    alt:  
 

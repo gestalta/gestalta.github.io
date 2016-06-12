@@ -11,28 +11,28 @@ credits:
   Model: Gestalta</br>
   Stylist: Takashi Mizukuchi</br>
   Makeup: Nori"
-mainimage: https://farm8.staticflickr.com/7361/27601771815_35f5a54965.jpg
+mainimage: https://farm8.staticflickr.com/7419/27622730425_7ec490e19c_o.jpg
 mainimagealt: Gestalta photographed by Masatoshi Yamashiro in Tokyo, Japan. Model posing with vintage cars, wearing Alexander McQueen.
 images:
- - url: https://farm8.staticflickr.com/7361/27601771815_35f5a54965.jpg
+ - url: https://farm8.staticflickr.com/7419/27622730425_7ec490e19c_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro in Tokyo, Japan. Model posing with vintage cars, wearing Alexander McQueen.
- - url: https://farm8.staticflickr.com/7388/26992737103_5862d7944b.jpg
+ - url: https://farm8.staticflickr.com/7317/27622736355_185d1dfa82_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro. Nude girl with long, dark hair in an industrial setting.
- - url: https://farm8.staticflickr.com/7632/27567813066_cd670afe51.jpg
+ - url: https://farm8.staticflickr.com/7718/27589166056_2c4a6be348_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro. Nude girl with long, dark hair and high heels.
- - url: https://farm8.staticflickr.com/7558/26992733173_b3dee7de63.jpg
+ - url: https://farm8.staticflickr.com/7580/27589162376_d73b3c16dc_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro. Nude woman with welding equipment
- - url: https://farm8.staticflickr.com/7769/27567810526_08bfbd3911.jpg
+ - url: https://farm8.staticflickr.com/7452/27012709224_b75d0f1c04_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro. Nude woman with Alexander McQueen jacket poses in vintage car workshop
- - url: https://farm8.staticflickr.com/7446/27567813926_88eb8df2e7.jpg
+ - url: https://farm8.staticflickr.com/7352/27013616383_5f4d0e5006_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro. Portrait in an industrial setting
- - url: https://farm8.staticflickr.com/7707/27528972151_a672a8bb93.jpg
+ - url: https://farm8.staticflickr.com/7485/27013613553_082aeeae12_o.jpg
    caption: "Photo: Masatoshi Yamashiro / Model: Gestalta / Tokyo Japan, June 2015"
    alt: Gestalta photographed by Masatoshi Yamashiro. Portrait
 

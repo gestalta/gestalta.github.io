@@ -9,22 +9,22 @@ locationdate: Cambridge // February 2012
 credits:
   "Photographer: Rebecca Tun</br>
   Model: Gestalta"
-mainimage: https://farm8.staticflickr.com/7308/26991851483_8456d92d31.jpg
+mainimage: https://farm8.staticflickr.com/7481/27549550391_e7dd63f40c_o.jpg
 mainimagealt: Gestalta photographed by Rebecca Tun, with white lace and flowers
 images:
- - url: https://farm8.staticflickr.com/7354/27501443132_fe602bd8d0.jpg
+ - url: https://farm8.staticflickr.com/7128/27622590745_ff78e7751d_o.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt: Gestalta photographed by Rebecca Tun. Girl in a falling pose, dressed in white lace
- - url: https://farm8.staticflickr.com/7308/26991851483_8456d92d31.jpg
+ - url: https://farm8.staticflickr.com/7481/27549550391_e7dd63f40c_o.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt: Gestalta photographed by Rebecca Tun, with white lace and flowers
- - url: https://farm8.staticflickr.com/7401/27566962786_64b5735f33.jpg
+ - url: https://farm8.staticflickr.com/7635/27622593475_888a547931_o.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt: Gestalta photographed by Rebecca Tun. Dark haired girl wearing white lace, with yellow flowers
- - url: https://farm8.staticflickr.com/7666/27528147701_b7445ed126.jpg
+ - url: https://farm8.staticflickr.com/7420/27012491394_0ebe10aff2_o.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt: Open leg image of a dark haired girl wearing white lace
- - url: https://farm8.staticflickr.com/7445/27528146591_c9d925aa76.jpg
+ - url: https://farm8.staticflickr.com/7118/27588996476_4c285697ba_o.jpg
    caption: "Photo: Rebecca Tun / Model: Gestalta / Cambridge, February 2012"
    alt: Gestalta photographed by Rebecca Tun. Dark haired woman in a white room
 ---

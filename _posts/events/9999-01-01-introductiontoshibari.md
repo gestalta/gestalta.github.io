@@ -6,10 +6,10 @@ permalink: /events/beginner-shibari-workshops
 categories:
  - archiveevent
 locationdate: Monthly // London
-mainimage: https://farm8.staticflickr.com/7303/26991644434_19c91f7cbc.jpg
+mainimage: shibari/events/introtoshibari.jpg
 ---
 
-<img src="{{site.baseurl}}/img/https://farm8.staticflickr.com/7303/26991644434_19c91f7cbc.jpg" class="text-image-left" />
+<img src="{{site.baseurl}}/img/shibari/events/introtoshibari.jpg" class="text-image-left" />
 **Introduction to Shibari** is a full day workshop that I lead once a month, every month as resident teacher at <a href="http://anatomiestudio.com" target="blank">Anatomie Studio</a>, London!
 
 These classes are suitable for those who are curious about shibari and would like to learn all the fundamental basics of this practice in a safe, inclusive and body-positive environment.  I teach in a way that demonstrates the reasons behind what you’re tying – giving you the tools to not only follow the patterns that I make, but to work out how to make your own.
@@ -26,7 +26,7 @@ Dates for 2016, and a description of the workshop content are listed at the belo
 
 &nbsp;
 
-<img src="{{site.baseurl}}/img/https://farm8.staticflickr.com/7451/27324708270_6dac891b24.jpg" class="text-image-right" />
+<img src="{{site.baseurl}}/img/shibari/events/gestalta-bishop-introtoshibari.jpg" class="text-image-right" />
 
 <h2 class="information-text-h2">2016 Dates</h2>
 <ul class="information-list">
