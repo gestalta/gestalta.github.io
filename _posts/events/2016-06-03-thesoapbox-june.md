@@ -6,9 +6,9 @@ permalink: /events/thesoapbox-june
 categories:
  - archiveevent
 locationdate: 3 June 2016 // London
-mainimage: events/soapbox-june-flyer.jpg
+mainimage: https://c3.staticflickr.com/8/7630/27565021402_15c13d1b89_o.jpg
 ---
-<img src="{{site.baseurl}}/img/events/soapbox-june-flyer.jpg" class="text-image-left" />
+<img src="https://c3.staticflickr.com/8/7630/27565021402_15c13d1b89_o.jpg" class="text-image-left" />
 
 <h2 class="information-text-h2">3rd June 2016</h2>
 

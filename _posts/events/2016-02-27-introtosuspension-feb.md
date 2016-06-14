@@ -6,9 +6,9 @@ permalink: /events/:title
 categories:
  - archiveevent
 locationdate: February 2016
-mainimage: events/introtosuspension-gestalta-february2015.jpg
+mainimage: https://c1.staticflickr.com/8/7363/27565113952_76fbefb33a_o.jpg
 ---
-<img src="{{site.baseurl}}/img/events/introtosuspension-gestalta-february2015.jpg" class="text-image-left" />
+<img src="https://c1.staticflickr.com/8/7363/27565113952_76fbefb33a_o.jpg" class="text-image-left" />
 I’ll be teaching a two day Introduction to Suspension workshop on 27th and 28th February 2016 at my regular haunt, <a href="http://anatomiestudio.com" target="_blank_">Anatomie Studio</a> London!
 
 The workshop is aimed at students who are already able to tie a standard 3 rope gote (aka TK, box tie, takate kote) and have some experience of tying on the floor, but want to start moving into the air in a safe and structured way.

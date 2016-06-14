@@ -6,10 +6,10 @@ permalink: /events/beginner-shibari-workshops
 categories:
  - archiveevent
 locationdate: Monthly // London
-mainimage: shibari/events/introtoshibari.jpg
+mainimage: https://c5.staticflickr.com/8/7344/27630456556_afefc80099_o.jpg
 ---
 
-<img src="{{site.baseurl}}/img/shibari/events/introtoshibari.jpg" class="text-image-left" />
+<img src="https://c5.staticflickr.com/8/7344/27630456556_afefc80099_o.jpg" class="text-image-left" />
 **Introduction to Shibari** is a full day workshop that I lead once a month, every month as resident teacher at <a href="http://anatomiestudio.com" target="blank">Anatomie Studio</a>, London!
 
 These classes are suitable for those who are curious about shibari and would like to learn all the fundamental basics of this practice in a safe, inclusive and body-positive environment.  I teach in a way that demonstrates the reasons behind what you’re tying – giving you the tools to not only follow the patterns that I make, but to work out how to make your own.
