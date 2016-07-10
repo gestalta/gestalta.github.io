@@ -35,6 +35,24 @@ a:hover, a:active, a:visited
 .title-no-offset
   margin-right: -5px
 
+.second-title
+  @extend .jp
+  position: relative
+  z-index: 4
+  pointer-events: none
+  font-size: 50px
+  @media (min-width: $screen-sm-min)
+    font-size: 50px
+  @media (min-width: $screen-md-min)
+    font-size: 50px
+  @media (min-width: $screen-lg-min)
+    font-size: 130px
+    letter-spacing: -8px
+    margin-right: -26px
+
+.title-no-offset
+  margin-right: -3px
+
 .splash-section
   position: relative
   margin-top: 500px

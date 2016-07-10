@@ -3,6 +3,12 @@ $(function(){
 
   $('.scroll-link').on('click', function(e){
     var section = $(this).attr("href");
+    $('html,body').animate({scrollTop: ($(section).offset().top - 40)}, 1000);
+    e.preventDefault();
+  });
+
+  $('.scroll-link-home').on('click', function(e){
+    var section = $(this).attr("href");
     $('html,body').animate({scrollTop: ($(section).offset().top - 180)}, 1000);
     e.preventDefault();
   });
