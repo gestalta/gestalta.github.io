@@ -1,14 +1,15 @@
 #bricks-image
-  width: 30%
+  width: 35%
   position: absolute
   top: -50px
-  right: 550px
-  @media (min-width: $screen-lg-min)
-    right: 650px
   z-index: 3
   visibility: hidden
   @media (min-width: $screen-md-min)
+    right: 500px
     visibility: visible
+  @media (min-width: $screen-lg-min)
+    right: 680px
+
 
 #shibari-image
   width: 20%
@@ -17,5 +18,26 @@
   right: 600px
   z-index: 999
   visibility: hidden
+  @media (min-width: $screen-md-min)
+    visibility: visible
+
+#contact-image
+  width: 25%
+  position: absolute
+  top: 0
+  right: 560px
+  z-index: 0000
+  visibility: hidden
+  @media (min-width: $screen-md-min)
+    visibility: visible
+
+#cv-image
+  width: 40%
+  position: relative
+  bottom: 0px
+  right: 0
+  z-index: 0000
+  visibility: hidden
+  clear: both
   @media (min-width: $screen-md-min)
     visibility: visible
