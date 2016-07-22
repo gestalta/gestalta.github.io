@@ -4,7 +4,7 @@ title:  Rebecca Tun
 date:   2013-08-27 21:17:59 +0100
 permalink: /portfolioarchive/rebeccatun-zeitgeber
 categories:
- - archiveart
+ - archivemodel
 locationdate: Wiltshire // August 2013
 credits:
   "Photographer: Rebecca Tun</br>

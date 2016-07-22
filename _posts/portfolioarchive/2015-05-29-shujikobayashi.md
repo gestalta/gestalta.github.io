@@ -4,7 +4,7 @@ title:  Shuji Kobayashi
 date:   2015-05-29 21:17:59 +0100
 permalink: /portfolioarchive/shujikobayashi
 categories:
- - archiveart
+ - archivemodel
 locationdate: Tokyo, Japan // May 2015
 credits:
   "Photographer: Shuji Kobayashi</br>

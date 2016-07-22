@@ -4,7 +4,7 @@ title:  Stefano Brunesci
 date:   2013-04-30 21:17:59 +0100
 permalink: /portfolioarchive/stefanobrunesci
 categories:
- - archiveart
+ - archivemodel
 locationdate: Wiltshire // April 2013
 credits:
   "Photographer: Stefano Brunesci</br>

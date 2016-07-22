@@ -4,7 +4,7 @@ title:  Akiomi Kuroda
 date:   2015-05-30 21:17:59 +0100
 permalink: /portfolioarchive/akiomikuroda
 categories:
- - archiveart
+ - archivemodel
 locationdate: Japan // May 2015
 credits:
   "Photographer: Akiomi Kuroda</br>

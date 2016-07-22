@@ -4,7 +4,7 @@ title:  Rebecca Tun
 date:   2010-12-27 21:17:59 +0100
 permalink: /portfolioarchive/rebeccatun-snow
 categories:
- - archiveart
+ - archivemodel
 locationdate: Wiltshire // December 2010
 credits:
   "Photographer: Rebecca Tun</br>

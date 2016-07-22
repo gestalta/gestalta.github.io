@@ -4,7 +4,7 @@ title:  Masatoshi Yamashiro
 date:   2015-06-30 21:17:59 +0100
 permalink: /portfolioarchive/masatoshiyamashiro
 categories:
- - archiveart
+ - archivemodel
 locationdate: Tokyo, Japan // June 2015
 credits:
   "Photographer: Masatoshi Yamashiro</br>

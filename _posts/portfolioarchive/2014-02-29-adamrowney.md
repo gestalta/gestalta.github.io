@@ -4,7 +4,7 @@ title:  Adam Rowney
 date:   2014-02-28 21:17:59 +0100
 permalink: /portfolioarchive/adamrowney-red
 categories:
- - archiveart
+ - archivemodel
 locationdate: London // 2014
 credits:
   "Photographer: Adam Rowney</br>

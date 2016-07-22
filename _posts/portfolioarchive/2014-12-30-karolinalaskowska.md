@@ -4,7 +4,7 @@ title:  Girls that Glitter
 date:   2014-12-13 21:17:59 +0100
 permalink: /portfolioarchive/girlsthatglitter
 categories:
- - archiveart
+ - archivemodel
 locationdate: Birmingham // December 2014
 credits:
   "Lingerie: Karolina Laskowska</br>

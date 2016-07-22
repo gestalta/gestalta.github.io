@@ -4,7 +4,7 @@ title:  Adam Rowney
 date:   2012-02-28 21:17:59 +0100
 permalink: /portfolioarchive/adamrowney
 categories:
- - archiveart
+ - archivemodel
 locationdate: Cambridge // 2012
 credits:
   "Photographer: Adam Rowney</br>

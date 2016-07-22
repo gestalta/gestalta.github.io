@@ -4,7 +4,7 @@ title:  Rebecca Tun
 date:   2012-02-27 21:17:59 +0100
 permalink: /portfolioarchive/rebeccatun-silver
 categories:
- - archiveart
+ - archivemodel
 locationdate: Cambridge // 2012
 credits:
   "Photographer: Rebecca Tun</br>
