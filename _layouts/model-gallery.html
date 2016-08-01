@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="submenu">
+  {% include submenu-model.html %}
+</div>
+
+<div class="scrolling-gallery">
+  <div class="scrolling-gallery-inner">
+    {% for image in page.images %}
+      <div class="scrolling-gallery-image-container">
+        <img src="{{image.url}}" alt="{{image.alt}}" class="scrolling-gallery-image" />
+        <div class="scrolling-gallery-image-caption">
+          {{image.caption}}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

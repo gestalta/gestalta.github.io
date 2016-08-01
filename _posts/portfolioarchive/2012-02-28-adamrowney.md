@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Adam Rowney
 date:   2012-02-28 21:17:59 +0100
 permalink: /portfolioarchive/adamrowney

@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Girls that Glitter
 date:   2014-12-13 21:17:59 +0100
 permalink: /portfolioarchive/girlsthatglitter

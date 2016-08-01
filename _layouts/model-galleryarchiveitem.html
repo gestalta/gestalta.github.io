@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="submenu">
+  {% include submenu-model.html %}
+</div>
+<div class="scrolling-gallery">
+  <div class="scrolling-gallery-inner">
+    <div class="scrolling-gallery-archive-item-caption">
+      <div class="scrolling-gallery-archive-item-caption-title">{{ page.title }}</div>
+      <div class="scrolling-gallery-archive-item-caption-date-location">{{ page.locationdate }}</div>
+      <div class="scrolling-gallery-archive-item-caption-description">{{ content }}</div>
+      <div class="scrolling-gallery-archive-item-caption-credits">{{ page.credits }}</div>
+    </div>
+
+    {% for image in page.images %}
+      <div class="scrolling-gallery-image-container">
+        <img src="{{image.url}}" alt="{{image.alt}}" class="scrolling-gallery-image" />
+        <div class="scrolling-gallery-image-caption">
+          {{image.caption}}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

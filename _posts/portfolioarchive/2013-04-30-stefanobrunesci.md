@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Stefano Brunesci
 date:   2013-04-30 21:17:59 +0100
 permalink: /portfolioarchive/stefanobrunesci

@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Akiomi Kuroda
 date:   2015-05-30 21:17:59 +0100
 permalink: /portfolioarchive/akiomikuroda

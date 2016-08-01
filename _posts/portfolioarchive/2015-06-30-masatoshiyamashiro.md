@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Masatoshi Yamashiro
 date:   2015-06-30 21:17:59 +0100
 permalink: /portfolioarchive/masatoshiyamashiro

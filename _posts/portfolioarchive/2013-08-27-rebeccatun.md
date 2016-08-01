@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Rebecca Tun
 date:   2013-08-27 21:17:59 +0100
 permalink: /portfolioarchive/rebeccatun-zeitgeber

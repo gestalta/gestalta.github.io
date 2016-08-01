@@ -1,5 +1,5 @@
 ---
-layout: art-galleryarchiveitem
+layout: model-galleryarchiveitem
 title:  Shuji Kobayashi
 date:   2015-05-29 21:17:59 +0100
 permalink: /portfolioarchive/shujikobayashi
