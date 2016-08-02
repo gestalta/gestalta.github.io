@@ -8,15 +8,6 @@ img, embed, object{
 	text-align: left;
 }
 
-#content {
-    margin right: 4%;
-		width: 100%;
-		white-space: normal;
-		overflow-x: scroll;
-		overflow-y: hidden;
-		float: right;
-}
-
 #posts ul {
 	list-style: none;
 	margin: auto;
