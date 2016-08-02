@@ -28,7 +28,7 @@ images:
    caption: hello mouse
  - url: https://farm8.staticflickr.com/7376/27012442994_857f2bfc69_o.jpg
    caption: hello cat
- - url: https://farm8.staticflickr.com/7379/27012419484_55f2dd5748_o.jpg
+ - url: https://c5.staticflickr.com/8/7415/27012444124_5432477452_o.jpg
    caption: hello dog
  - url: https://farm8.staticflickr.com/7338/27622517085_5152c17a13_o.jpg
    caption: hello mouse

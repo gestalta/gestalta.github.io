@@ -17,3 +17,5 @@ github_username:  gestalta
 
 # Build settings
 markdown: kramdown
+
+highlighter: pygments

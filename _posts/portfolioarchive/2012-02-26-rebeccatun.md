@@ -29,6 +29,8 @@ images:
    alt: Gestalta photographed by Rebecca Tun. Dark haired woman in a white room
 ---
 
-It’s an interesting point that ‘open leg’ has now become a genre in it’s own right rather than just a pose. With realism as a central feature of that genre in the mainstream (presumably to, paradoxically, facilitate fantasy) it has gained a reputation for being artless and vapid.
+It’s interesting to observe that ‘open leg’ has become a genre in it’s own right rather than just a pose. With realism as a central feature of that genre in the mainstream (presumably to, paradoxically, facilitate fantasy) it has gained a reputation for being artless and vapid.
 
-Pictures such as Panayiotis Lamprou's portrait 'My British Wife' challenge the idea that there are some parts of human anatomy that are intrinsically more presentable than others by portraying deliberate, intimate and knowing exposure in the context of art, but invariably cause a little controversy. This series was an experiment, to see if removing all realism from the scenario, and thus detaching the genre from it's context, could create an entirely uncontroversial image, and to see if it could be possible to see if, at least theoretically, 'open leg' could be rehabilitated.
+There are exceptions that prove the rule, pictures such as Panayiotis Lamprou's portrait 'My British Wife', which challenges the idea that there are some parts of human anatomy that are intrinsically more presentable than others by portraying realistic, intimate and knowing exposure in the context of art, but in doing so manages to loose the 'open leg' label.
+
+This series was an experiment in the other direction, what does an 'open leg' image become when it is completely divorced from realism?
