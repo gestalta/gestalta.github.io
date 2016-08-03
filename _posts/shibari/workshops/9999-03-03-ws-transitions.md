@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Intro to transitions"
 date:   2016-04-08 21:17:59 +0100
-permalink: /shibariworkshops/transitions
+permalink: /shibari/workshops/transitions
 ---
 <img src="{{site.baseurl}}/img/shibari/performance/2015-11-paris-gestalta-gorgone/paris-gestalta-gorgone40.jpg" class="text-image-left" />
 This workshop is for students who are already able to perform a basic suspension, but want to move on to some more dynamic work.

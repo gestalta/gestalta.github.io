@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Introduction to Shibari Suspension"
 date:   2016-04-08 21:17:59 +0100
-permalink: /shibariworkshops/introtoshibarisuspension
+permalink: /shibari/workshops/introtoshibarisuspension
 ---
 ### Event description and programme
 

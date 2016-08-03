@@ -2,7 +2,7 @@
 layout: shibari-performancearchive
 title:  The Soap Box
 date:   2016-04-08 21:17:59 +0100
-permalink: /performance/:title
+permalink: shibari/performance/:title
 categories:
  - archiveperformance
 locationdate: London // 1 April 2016

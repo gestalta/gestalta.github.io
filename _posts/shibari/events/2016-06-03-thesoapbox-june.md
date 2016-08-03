@@ -1,8 +1,8 @@
 ---
 layout: text-page
 title:  The Soap Box
-date:   2016-05-25 21:17:59 +0100
-permalink: /events/thesoapbox-june
+date:   2016-06-03 21:17:59 +0100
+permalink: /shibari/events/thesoapbox-june
 categories:
  - archiveevent
 locationdate: 3 June 2016 // London

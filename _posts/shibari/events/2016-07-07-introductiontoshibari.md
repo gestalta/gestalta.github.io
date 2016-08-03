@@ -1,8 +1,8 @@
 ---
 layout: text-page
 title:  "Introduction To Shibari"
-date:   2016-04-08 21:17:59 +0100
-permalink: /events/beginner-shibari-workshops
+date:   2016-07-07 21:17:59 +0100
+permalink: /shibari/events/beginner-shibari-workshops
 categories:
  - archiveevent
 locationdate: Monthly // London

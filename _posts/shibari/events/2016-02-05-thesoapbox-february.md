@@ -2,7 +2,7 @@
 layout: text-page
 title:  "The Soap Box"
 date:   2016-02-05 21:17:59 +0100
-permalink: /events/thesoapbox-february
+permalink: /shibari/events/thesoapbox-february
 categories:
  - archiveevent
 locationdate: 5 February 2016 // London

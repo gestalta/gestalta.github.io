@@ -15,7 +15,14 @@ a:hover, a:active, a:visited
   margin: 0
   z-index: 9999
   padding-top: 6px
-  padding-left: 60px
+  padding-left: 30px
+  @media (min-width: $screen-sm-min)
+    padding-left: 30px
+  @media (min-width: $screen-md-min)
+    padding-left: 30px
+  @media (min-width: $screen-lg-min)
+    padding-left: 60px
+
 
 .title
   @extend .jp
@@ -87,12 +94,38 @@ a:hover, a:active, a:visited
 .main-menu li
   width: 100%
   padding-top: 5px
-  display: block
+  display: none
   background: #fff
   @media (min-width: $screen-sm-min)
     width: auto
+    display: none
+    margin: 0 0 0 40px
+  @media (min-width: $screen-md-min)
+    width: auto
     display: inline-block
     margin: 0 0 0 40px
+  @media (min-width: $screen-lg-min)
+    width: auto
+    display: inline-block
+    margin: 0 0 0 40px
+
+.main-menu .main-menu-icon
+  display: inline-block
+  @media (min-width: $screen-sm-min)
+    display: inline-block
+  @media (min-width: $screen-md-min)
+    display: none
+  @media (min-width: $screen-lg-min)
+    display: none
+
+.main-menu ul:hover li
+  display: block
+  @media (min-width: $screen-sm-min)
+    display: block
+  @media (min-width: $screen-md-min)
+    display: none
+  @media (min-width: $screen-lg-min)
+    display: none
 
 .main-menu li a
   display: block
@@ -133,14 +166,23 @@ a:hover, a:active, a:visited
   z-index: 9999
   text-align: left
   background: white
-  height: 95vh
   position: absolute
-  width: 215px
-  margin-left: 50px
+  height: 95vh
+  width: 180px
+  margin-left: 20px
   top: 0
   margin-top: 40px
   padding: 0 10px
   padding-top: 40px
+  @media (min-width: $screen-sm-min)
+    width: 180px
+    margin-left: 20px
+  @media (min-width: $screen-md-min)
+    width: 180px
+    margin-left: 20px
+  @media (min-width: $screen-lg-min)
+    width: 215px
+    margin-left: 50px
 
 .submenu-section
   padding-left: 0
@@ -191,15 +233,18 @@ a:hover, a:active, a:visited
     overflow-y: hidden
 
 .scrolling-gallery-inner
-  padding-left: 255px
+  padding-left: 200px
   height: 100%
   width: auto
   white-space: normal
   @media (min-width: $screen-sm-min)
+    padding-left: 200px
     white-space: normal
   @media (min-width: $screen-md-min)
+    padding-left: 200px
     white-space: nowrap
   @media (min-width: $screen-lg-min)
+    padding-left: 255px
     white-space: nowrap
 
 .scrolling-gallery-image-container
@@ -691,15 +736,15 @@ a:hover, a:active, a:visited
   @media (min-width: $screen-sm-min)
     padding-right: 20px
   @media (min-width: $screen-md-min)
-    padding-right: 150px
+    padding-right: 80px
   @media (min-width: $screen-lg-min)
     padding-right: 150px
 
 .masonry-gallery-image
-  width: calc(100%)
+  width: calc(100%-40px)
   height: auto
   @media (min-width: $screen-sm-min)
-    width: calc(100%)
+    width: calc(100%-40px)
     height: auto
   @media (min-width: $screen-md-min)
     height: calc(100% - 40px)

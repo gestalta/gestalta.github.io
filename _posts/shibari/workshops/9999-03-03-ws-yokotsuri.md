@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Yoko-tsuri"
 date:   2016-04-08 21:17:59 +0100
-permalink: /shibariworkshops/yokotsuri
+permalink: /shibari/workshops/yokotsuri
 ---
 This is one of my favourite ties for play, particularly when tying with new people.
 

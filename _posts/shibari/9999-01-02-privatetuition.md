@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Private Shibari Tuition"
 date:   2016-04-08 21:17:59 +0100
-permalink: /privateshibarituition
+permalink: /shibari/privatetuition
 ---
 <img src="{{site.baseurl}}/img/shibari/photos/2016-02-sophia/gestalta-sophia7.jpg" class="text-image-left" alt="Private shibari tuition image, Gestalta suspending Sophia in a running man position" />
 I am available to give private shibari tuition for people of all levels, from complete beginners through to more advanced riggers.  This is perfect for those that want to learn shibari but don’t have the flexibility to attend workshops, or simply want to learn in a more discreet environment.  Lessons are individually tailored to your needs, and you can book regular lessons to give you a structured overview, or book one-off lessons to learn particular things of interest to you with more attention to detail than can be found in a group environment. Please feel free to <a href="{{site.baseurl}}/#contact">contact me</a> to discuss your needs and interests.
@@ -16,7 +16,7 @@ Private lessons are are ideal for:
 – Riggers of all levels who want to go into more detail on the things they’ve already learnt.<br>
 – Couples who want to learn in a private / discreet environment.<br>
 
-In addition to individual lessons, I am also happy to teach small groups of 2 to 4 couples.
+In addition to individual lessons, I am also happy to teach small groups of 2 to 3 couples.
 
 I typically teach private lessons in sessions of 1 to 3 hours as I feel this is a good way to learn productively without getting overloaded with information. However, I’m happy to teach more intensive full days in two 3 hour sessions with a break for lunch in the middle, which might be more convenient for those traveling a longer distance for sessions!
 
@@ -28,11 +28,13 @@ I am happy to discuss the possibility of traveling to other locations.
 <h2 class="information-text-h2">Pricing</h2>
 
 {:.table.table-bordered}
-|                    | Individual Lessons  | Small Groups    |
+|                    | Individual Lessons  | Small Groups^^  |
 |                    | --:                 | --:             |
 |per hour            | £45                 | £30 per couple  |
-|3 hours             | £120                | £75 per couple  |
-|3 x 3 hour sessions | £300                | £180 per couple |
+|2 hours             | £90                 | £60 per couple  |
+|3 x 2 hour sessions | £225                | £150 per couple |
+
+^^small groups = 2 to 3 couples
 
 These prices are based on lessons taught from my home.  For lessons taught at <a href="http://anatomiestudio.com" target="_blank_">Anatomie Studio</a> there is an additional charge of £10 per hour for studio hire. For lessons at other locations I may also ask for reimbursement of my travel expenses.
 

@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Understanding the Gote"
 date:   2016-04-08 21:17:59 +0100
-permalink: /shibariworkshops/understandingthegote
+permalink: /shibari/workshops/understandingthegote
 ---
 <img src="{{site.baseurl}}/img/shibari/gestaltamayagote.jpg" class="text-image-left" />
 The Gote (aka takate kote, TK, or box tie) is one of the most fundamental ties in shibari. Many riggers begin their rope journey by learning one type of gote “by rote”, but there are countless variations on the pattern, and no real need to stick to just one.

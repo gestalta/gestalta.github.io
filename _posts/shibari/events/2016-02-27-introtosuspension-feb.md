@@ -2,7 +2,7 @@
 layout: text-page
 title:  Intro to Suspension
 date:   2016-02-27 21:17:59 +0100
-permalink: /events/:title
+permalink: /shibari/events/:title
 categories:
  - archiveevent
 locationdate: February 2016

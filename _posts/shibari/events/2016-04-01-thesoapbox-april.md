@@ -2,7 +2,7 @@
 layout: text-page
 title:  The Soap Box
 date:   2016-04-01 21:17:59 +0100
-permalink: /events/thesoapbox-april
+permalink: /shibari/events/thesoapbox-april
 categories:
  - archiveevent
 locationdate: 1 April 2016 // London
