@@ -10,7 +10,7 @@ credits:
   "Photographer: Second Glance</br>
   Model: Gestalta</br>"
 mainimage: https://c8.staticflickr.com/9/8843/27858476823_621064feed_o.jpg
-mainimagealt: Photograph by Gestalta. Soft, artistic nude image of a woman in an old building
+mainimagealt: Soft, artistic nude image of a woman in an old building
 images:
  - url: https://c8.staticflickr.com/9/8843/27858476823_621064feed_o.jpg
    caption: "Photo: Second Glance / Model: Gestalta"
