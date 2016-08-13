@@ -4,7 +4,7 @@ title:  Shibari - Culturgest
 date:   2016-06-16 21:17:59 +0100
 permalink: shibari/performance/:title
 categories:
- - archiveperformance
+ - archiveshibari
 locationdate: Lisbon // 15th - 16th June 2016
 credits:
   "Rigger: Pedro </br>

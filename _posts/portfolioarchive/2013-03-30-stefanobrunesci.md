@@ -10,55 +10,55 @@ credits:
   "Photographer: Stefano Brunesci</br>
   Model: Gestalta</br>
   Retouch: Gestalta"
-mainimage: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci15.jpg
+mainimage: https://c1.staticflickr.com/9/8409/28337704704_79c4f3f114_o.jpg
 mainimagealt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
 images:
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci1.jpg
+ - url: https://c8.staticflickr.com/9/8585/28880230311_f3e2f86308_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci2.jpg
+ - url: https://c4.staticflickr.com/9/8854/28956419995_319b547b0e_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci3.jpg
+ - url: https://c7.staticflickr.com/9/8832/28924581646_c1486c5e47_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci4.jpg
+ - url: https://c4.staticflickr.com/9/8495/28340382683_81b1c85791_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci5.jpg
+ - url: https://c7.staticflickr.com/9/8139/28851967502_d704d60754_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci6.jpg
+ - url: https://c7.staticflickr.com/9/8780/28924578566_168ef2c6f6_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci7.jpg
+ - url: https://c3.staticflickr.com/9/8766/28670953250_13ed896735_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci8.jpg
+ - url: https://c5.staticflickr.com/9/8628/28924575836_6c6d2f1529_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci9.jpg
+ - url: https://c7.staticflickr.com/9/8565/28670951750_b0b9ccc87d_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci10.jpg
+ - url: https://c3.staticflickr.com/9/8827/28924572506_631b07bcae_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci11.jpg
+ - url: https://c3.staticflickr.com/9/8484/28670951170_d74f07b738_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci12.jpg
+ - url: https://c7.staticflickr.com/8/7753/28670949790_77ccc0ca3a_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci13.jpg
+ - url: https://c8.staticflickr.com/9/8840/28340377063_6aa4f38899_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci14.jpg
+ - url: https://c3.staticflickr.com/9/8674/28670948010_d215fc909b_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci15.jpg
+ - url: https://c1.staticflickr.com/9/8409/28337704704_79c4f3f114_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
- - url: /img/model/2013-03-stefanobrunesci/gestalta-stefanobrunesci16.jpg
+ - url: https://c3.staticflickr.com/9/8828/28670946290_6565c8b011_o.jpg
    caption: "Photo: Stefano Brunesci / Model: Gestalta / Wiltshire, March 2013"
    alt: Gestalta photographed by Stefano Brunesci. Monochrome artistic figure nude image
 

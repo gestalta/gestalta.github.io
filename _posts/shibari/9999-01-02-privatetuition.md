@@ -4,7 +4,7 @@ title:  "Private Shibari Tuition"
 date:   2016-04-08 21:17:59 +0100
 permalink: /shibari/privatetuition
 ---
-<img src="{{site.baseurl}}/img/shibari/photos/2016-02-sophia/gestalta-sophia7.jpg" class="text-image-left" alt="Private shibari tuition image, Gestalta suspending Sophia in a running man position" />
+<img src="https://c1.staticflickr.com/9/8661/28857579432_aa3e50950e_o.jpg" class="text-image-left" alt="Private shibari tuition image, Gestalta suspending Sophia in a running man position" />
 I am available to give private shibari tuition for people of all levels, from complete beginners through to more advanced riggers.  This is perfect for those that want to learn shibari but don’t have the flexibility to attend workshops, or simply want to learn in a more discreet environment.  Lessons are individually tailored to your needs, and you can book regular lessons to give you a structured overview, or book one-off lessons to learn particular things of interest to you with more attention to detail than can be found in a group environment. Please feel free to <a href="{{site.baseurl}}/#contact">contact me</a> to discuss your needs and interests.
 
 I aim to give all students a comprehensive grasp of the principals behind shibari, so that you come away knowing not just how to do things, but also why you’re doing them.  As a rigger who was also a shibari model for many years, I am familiar with rope from both sides and try to teach in a way that reflects that; I am happy to give advice from a models perspective whilst teaching from a riggers perspective.  I go into detail not just on how to form patterns with rope, but also how to move your rope, yourself and your partner whilst tying.

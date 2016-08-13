@@ -4,7 +4,7 @@ title:  The Soap Box
 date:   2016-04-08 21:17:59 +0100
 permalink: shibari/performance/:title
 categories:
- - archiveperformance
+ - archiveshibari
 locationdate: London // 1 April 2016
 credits:
   "Rigger: Gestalta </br>

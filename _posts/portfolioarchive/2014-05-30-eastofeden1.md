@@ -9,76 +9,76 @@ locationdate: London // May 2014
 credits:
   "Photographer: Selina Mayer</br>
   Model: Gestalta"
-mainimage: /img/model/2014-06-eastofeden1/gestalta-selinamayer22.jpg
+mainimage: https://c7.staticflickr.com/8/7751/28338690654_a8bc37ed5a_o.jpg
 mainimagealt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
 images:
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer1.jpg
+ - url: https://c1.staticflickr.com/9/8866/28672203200_2af902834d_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer2.jpg
+ - url: https://c3.staticflickr.com/9/8887/28338908114_90a396359d_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer3.jpg
+ - url: https://c5.staticflickr.com/8/7502/28338894404_aab137c59e_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer4.jpg
+ - url: https://c2.staticflickr.com/9/8601/28341555113_d2a6f6f0f9_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer5.jpg
+ - url: https://c5.staticflickr.com/9/8571/28853144652_7d58e54b85_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer6.jpg
+ - url: https://c2.staticflickr.com/9/8892/28881479201_7dec232e51_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer7.jpg
+ - url: https://c2.staticflickr.com/9/8114/28957570425_0198e69356_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer8.jpg
+ - url: https://c5.staticflickr.com/9/8644/28925820596_0b8418ddbc_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer9.jpg
+ - url: https://c2.staticflickr.com/9/8526/28957559425_6b297216ed_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer10.jpg
+ - url: https://c7.staticflickr.com/9/8029/28853109862_202e3d89a0_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer11.jpg
+ - url: https://c5.staticflickr.com/9/8659/28672088100_1f6a7b4f20_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer12.jpg
+ - url: https://c3.staticflickr.com/9/8890/28853086922_74b5449521_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer13.jpg
+ - url: https://c2.staticflickr.com/9/8727/28957518785_47c8669676_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer14.jpg
+ - url: https://c7.staticflickr.com/9/8667/28925757566_2c156f890d_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer15.jpg
+ - url: https://c8.staticflickr.com/9/8052/28881374031_d0f29d4fbc_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer16.jpg
+ - url: https://c1.staticflickr.com/9/8823/28338764824_674b151de8_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer17.jpg
+ - url: https://c8.staticflickr.com/9/8027/28957471975_bddafa8fa1_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer18.jpg
+ - url: https://c6.staticflickr.com/9/8678/28957453125_0b291ea088_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer19.jpg
+ - url: https://c4.staticflickr.com/9/8893/28881320931_30e8189699_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer20.jpg
+ - url: https://c8.staticflickr.com/9/8385/28957404975_0713650e63_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer21.jpg
+ - url: https://c6.staticflickr.com/9/8575/28957379605_7db0c2b8ae_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer22.jpg
+ - url: https://c7.staticflickr.com/8/7751/28338690654_a8bc37ed5a_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: /img/model/2014-06-eastofeden1/gestalta-selinamayer23.jpg
+ - url: https://c3.staticflickr.com/9/8527/28852947402_12f9ae4264_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
 ---

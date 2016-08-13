@@ -1,40 +1,53 @@
 ---
 layout: shibari-performancearchive
 title:  Rope Spirit
-date:   2016-06-16 21:17:59 +0100
+date:   2016-07-16 21:17:59 +0100
 permalink: shibari/performance/:title
 categories:
- - archiveperformance
+ - archiveshibari
 locationdate: Prague // July 2016
 credits:
   "Rigger: Gestalta </br>
   Model: Anea Capaken</br>
   Photography: Petr Jedinak & Mista"
-mainimage: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit3.jpg
+mainimage: https://c8.staticflickr.com/9/8885/28884787471_f21afe1f0a_o.jpg
+mainimagealt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
 images:
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit1.jpg
+ - url: https://c3.staticflickr.com/9/8748/28342207874_4d7ea660f1_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit2.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c8.staticflickr.com/9/8275/28344796543_3dc529df22_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit3.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c8.staticflickr.com/9/8885/28884787471_f21afe1f0a_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit4.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c2.staticflickr.com/9/8639/28884777241_47c94ff43e_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit5.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c1.staticflickr.com/9/8576/28929008296_1c3694213f_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit6.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c2.staticflickr.com/9/8748/28344770673_1134e395ab_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit7.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c4.staticflickr.com/9/8473/28884770611_727e314bb9_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit8.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c5.staticflickr.com/9/8159/28675454740_517590ab20_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit9.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c2.staticflickr.com/9/8192/28960786225_5b0c8bbb87_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit11.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c6.staticflickr.com/9/8844/28960780285_3249eb0df2_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit12.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c8.staticflickr.com/9/8878/28960775855_1123eae16c_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
- - url: /img/shibari/performance/2016-07-gestalta-anea-ropespirit-prague/gestalta-anea-ropespirit13.jpg
+   alt: Shibari performance by Gestalta and Anea Capaken in Prague, Rope Spirit 2016
+ - url: https://c3.staticflickr.com/9/8384/28928994266_7125e5ae6e_o.jpg
    caption: "Performing at Rope Spirit, Prague. Ropes by Gestalta / Model: Anea Capaken"
+   alt:
 
 ---

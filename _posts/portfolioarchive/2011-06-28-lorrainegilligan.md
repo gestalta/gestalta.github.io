@@ -9,10 +9,10 @@ locationdate: Dublin // 2011
 credits:
   "Photographer: Lorraine Gilligan</br>
   Model: Gestalta"
-mainimage: /img/model/2011-06-lorrainegilligan/blackmoth.jpg
+mainimage: https://c3.staticflickr.com/9/8855/28923200066_8e02ac166c_o.jpg
 mainimagealt: Gestalta photographed by Lorraine Gilligan. Golden, painterly portrait of a girl with peacock feather necklace
 images:
- - url: /img/model/2011-06-lorrainegilligan/blackmoth.jpg
+ - url: https://c3.staticflickr.com/9/8855/28923200066_8e02ac166c_o.jpg
    caption: "Photo: Lorraine Gilligan / Model: Gestalta / Dublin, June 2011"
    alt: Gestalta photographed by Lorraine Gilligan. Dramatic, gothic portrait of a pale skinned girl dressed in floating black material.
 ---

@@ -9,22 +9,22 @@ locationdate: London // c. 2009
 credits:
   "Photographer: Willie Nash</br>
   Model: Gestalta"
-mainimage: /img/model/2009-12-willienash/gestalta-nash2.jpg
+mainimage: https://c1.staticflickr.com/9/8853/28922891736_310de19f75_o.jpg
 mainimagealt: Gestalta, photographed by Willie Nash.  Killing one bird with one stone. Nude girl lying under an artificial tree.
 images:
- - url: /img/model/2009-12-willienash/gestalta-nash1.jpg
+ - url: https://c5.staticflickr.com/9/8616/28669252620_fc72894101_o.jpg
    caption: "Photo: Willie Nash / Model: Gestalta / London, UK. c. 2009"
    alt: Gestalta, photographed by Willie Nash.  Nude girl posing with a coffin, a chair and thirteen glasses of water.
- - url: /img/model/2009-12-willienash/gestalta-nash2.jpg
+ - url: https://c1.staticflickr.com/9/8853/28922891736_310de19f75_o.jpg
    caption: "Photo: Willie Nash / Model: Gestalta / London, UK. c. 2009"
    alt: Gestalta, photographed by Willie Nash.  Killing one bird with one stone. Nude girl lying under an artificial tree.
- - url: /img/model/2009-12-willienash/gestalta-nash3.jpg
+ - url: https://c5.staticflickr.com/8/7667/28922890356_0fca508c63_o.jpg
    caption: "Photo: Willie Nash / Model: Gestalta / London, UK. c. 2009"
    alt: Gestalta, photographed by Willie Nash.  Nude girl placing a concrete block onto a table with thirteen glasses of water.
- - url: /img/model/2009-12-willienash/gestalta-nash4.jpg
+ - url: https://c1.staticflickr.com/9/8780/28922889896_46fa859d51_o.jpg
    caption: "Photo: Willie Nash / Model: Gestalta / London, UK. c. 2009"
    alt: Gestalta, photographed by Willie Nash.  Nude girl crawling across a floor strewn with banana skins.
- - url: /img/model/2009-12-willienash/gestalta-nash5.jpg
+ - url: https://c2.staticflickr.com/8/7586/28954778265_5b8a24afe9_o.jpg
    caption: "Photo: Willie Nash / Model: Gestalta / London, UK. c. 2009"
    alt: Gestalta, photographed by Willie Nash.  Where are you? Have you gone on holiday?
 
