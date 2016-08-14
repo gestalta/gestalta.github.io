@@ -1,26 +1,15 @@
-<div class="submenu">
-        <div class="submenu-section">
-          <ul class="submenu-title">
-            <li>MODEL</li>
-          </ul>
-          <ul class="submenu-options">
-            {% for post in site.categories.model %}
-            <li><a href="{{post.url}}">{{post.title}}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="submenu-section">
-          <ul class="submenu-options">
-            <li><a href="{{baseurl}}/model/portfolioarchive">Portfolio Archives</a></li>
-          </ul>
-        </div>
-        <div class="submenu-section">
-          <ul class="submenu-options">
-            <li><a href="http://instagram.com/Gestalta" target="_blank">Instagram</a></li>
-            <li><a href="http://facebook.com/Gestalta" target="_blank">Facebook</a></li>
-          </ul>
-        </div>
-        <div class="submenu-section">
-          <ul class="submenu-title"><a href="{{baseurl}}/#model"><< Back</a></ul>
-        </div>
+{% include submenu.html category="model" %}
+<div class="submenu-section">
+  <ul class="submenu-options">
+    <li><a href="{{baseurl}}/model/portfolioarchive">Portfolio Archives</a></li>
+  </ul>
+</div>
+<div class="submenu-section">
+  <ul class="submenu-options">
+    <li><a href="http://instagram.com/Gestalta" target="_blank">Instagram</a></li>
+    <li><a href="http://facebook.com/Gestalta" target="_blank">Facebook</a></li>
+  </ul>
+</div>
+<div class="submenu-section">
+  <ul class="submenu-title"><a href="{{baseurl}}/#model"><< Back</a></ul>
 </div>
