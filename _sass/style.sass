@@ -92,17 +92,20 @@ a:hover, a:active, a:visited
   padding: 10px 0
 
 .main-menu li
-  width: 100%
   padding-top: 5px
   display: none
   background: #fff
   width: auto
-  display: inline-block
+  display: block
   margin: 0 0 0 40px
-
+  @media (min-width: $screen-sm-min)
+    display: block
+  @media (min-width: $screen-md-min)
+    display: inline-block
+  @media (min-width: $screen-lg-min)
+    display: inline-block
 
 .main-menu li a
-  display: block
   padding: 0 5px
   margin: 0
 
@@ -127,6 +130,107 @@ a:hover, a:active, a:visited
   opacity: 1
   visibility: visible
 
+//resize menu //
+$content-width: 1000px
+$breakpoint: 855px
+$nav-height: 70px
+$nav-background: #ffffff
+$nav-font-color: #333
+$link-hover-color: #333
+
+nav
+  float: right
+  ul
+    list-style: none
+    margin: 0
+    padding: 0
+    li
+      position: relative
+      a
+        padding: 0 20px
+        background: $nav-background
+        color: $nav-font-color
+        text-decoration: none
+        &:hover
+          background: $link-hover-color
+          color: $nav-font-color
+        &:not(:only-child):after
+        padding-left: 4px
+        content: ' ▾'
+      ul li
+        min-width: 190px
+        & a
+          padding: 15px
+          line-height: 20px
+          z-index: 1
+
+.nav-mobile
+  display: none
+  position: absolute
+  top: 0
+  right: 0
+  height: $nav-height
+  width: $nav-height
+
+#nav-toggle
+  position: absolute
+  left: 18px
+  top: 22px
+  cursor: pointer
+  padding: 10px 35px 16px 0px
+  span,
+  span:before,
+  span:after
+    cursor: pointer
+    border-radius: 1px
+    height: 5px
+    width: 35px
+    background: $nav-font-color
+    position: absolute
+    display: block
+    content: ''
+    transition: all 300ms ease-in-out
+  span:before
+    top: -10px
+  span:after
+    bottom: -10px
+  &.active span
+    background-color: transparent
+    &:before,
+    &:after
+      top: 0
+    &:before
+      transform: rotate(45deg)
+    &:after
+      transform: rotate(-45deg)
+
+@media only screen and (max-width: $breakpoint)
+  .nav-mobile
+    display: block
+
+  nav
+    width: 100%
+    padding: 0 15px
+    ul
+      display: none
+      li
+        float: none
+        a
+          padding: 15px
+          line-height: 20px
+        ul li a
+          padding-left: 30px
+
+
+
+.navigation
+  background: $nav-background
+
+.nav-container
+  margin: 0 auto
+
+//resize menu end //
+
 .splash-section-column
   width: 100%
   vertical-align: top
@@ -141,6 +245,7 @@ a:hover, a:active, a:visited
   text-align: left
   background: white
   position: absolute
+  display: block
   height: 95vh
   width: 180px
   margin-left: 20px
@@ -174,6 +279,7 @@ a:hover, a:active, a:visited
   line-height: 1.2
   list-style: none
   padding-left: 0
+  display: block
 
 .submenu-options a
   color: #333
