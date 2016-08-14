@@ -14,14 +14,17 @@ a:hover, a:active, a:visited
   float: left
   margin: 0
   z-index: 9999
-  padding-top: 6px
-  padding-left: 30px
+  padding-top: 15px
+  padding-left: 16px
   @media (min-width: $screen-sm-min)
-    padding-left: 30px
+    padding-left: 16px
+    padding-top: 15px
   @media (min-width: $screen-md-min)
     padding-left: 30px
+    padding-top: 6px
   @media (min-width: $screen-lg-min)
-    padding-left: 60px
+    padding-left: 30px
+    padding-top: 6px
 
 
 .title
@@ -303,19 +306,22 @@ $link-hover-color: #333
 .scrolling-gallery-image-container
   position: relative
   display: block
-  margin: 0 10px
+  margin: 0 16px
   padding-bottom: 40px
   @media (min-width: $screen-sm-min)
     display: block
     padding-bottom: 40px
+    margin: 0 16px
   @media (min-width: $screen-md-min)
     display: inline-block
     height: 100%
     padding-bottom: 0
+    margin: 0 10px
   @media (min-width: $screen-lg-min)
     display: inline-block
     height: 100%
     padding-bottom: 0
+    margin: 0 10px
 
 .scrolling-gallery-image
   width: calc(100%)

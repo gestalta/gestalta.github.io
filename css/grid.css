@@ -60,8 +60,8 @@ only screen and (max-device-width : 799px){
 		column-count: 34;
 		column-gap: 10px;
     width: 100%;
-    padding-left: 12%;
-    padding-right: 12%;
+    padding-left: 16px;
+    padding-right: 16px;
 	}
 }
 
