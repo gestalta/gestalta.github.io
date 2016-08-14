@@ -6,9 +6,9 @@ permalink: /shibari/events/:title
 categories:
  - archiveevent
 locationdate: 20 Jan - 10 Feb 2016
-mainimage: /img/events/levelling-up.jpg
+mainimage: https://c4.staticflickr.com/9/8848/28347752003_8569b60127_o.jpg
 ---
-<img src="/img/events/levelling-up.jpg" class="text-image-left" />
+<img src="https://c4.staticflickr.com/9/8848/28347752003_8569b60127_o.jpg" class="text-image-left" />
 
 I’ll be teaching a 4 week shibari course at Anatomie Studio, London for those that feel they are ‘stuck in the middle’ and looking to level up!
 
