@@ -127,6 +127,16 @@ a:hover, a:active, a:visited
   opacity: 1
   visibility: visible
 
+.main-menu2
+  display: none
+  @media (min-width: $screen-sm-min)
+    display: none
+  @media (min-width: $screen-md-min)
+    display: inline-block
+  @media (min-width: $screen-lg-min)
+    display: inline-block
+
+
 .splash-section-column
   width: 100%
   vertical-align: top
@@ -138,25 +148,32 @@ a:hover, a:active, a:visited
 // menu bar
 .submenu
   z-index: 9999
-  text-align: left
+  text-align: right
   background: white
-  position: absolute
-  height: 95vh
-  width: 180px
-  margin-left: 20px
+  height: auto
   top: 0
-  margin-top: 40px
-  padding: 0 10px
-  padding-top: 40px
   @media (min-width: $screen-sm-min)
-    width: 180px
     margin-left: 20px
   @media (min-width: $screen-md-min)
-    width: 180px
+    width: 185px
     margin-left: 20px
+    position: absolute
+    text-align: left
+    height: 95vh
+    margin-top: 40px
+    margin-left: 20px
+    padding: 0 10px
+    padding-top: 40px
   @media (min-width: $screen-lg-min)
     width: 215px
     margin-left: 50px
+    position: absolute
+    text-align: left
+    height: 95vh
+    margin-top: 40px
+    margin-left: 20px
+    padding: 0 10px
+    padding-top: 40px
 
 .submenu-section
   padding-left: 0
@@ -189,8 +206,72 @@ a:hover, a:active, a:visited
   padding: 0 3px
   margin: 0
 
-// scrolling gallery
+//resize menu //
+$breakpoint: 800px
+$nav-height: 70px
+$nav-background: #ffffff
+$nav-font-color: #333
+$link-hover-color: #333
 
+.nav-mobile
+  display: none
+  position: absolute
+  top: 0
+  right: 0
+  height: $nav-height
+  width: $nav-height
+
+#nav-toggle
+  position: absolute
+  left: 18px
+  top: 22px
+  cursor: pointer
+  padding: 10px 35px 16px 0px
+  span,
+  span:before,
+  span:after
+    cursor: pointer
+    border-radius: 1px
+    height: 5px
+    width: 35px
+    background: $nav-font-color
+    position: absolute
+    display: block
+    content: ''
+    transition: all 300ms ease-in-out
+  span:before
+    top: -10px
+  span:after
+    bottom: -10px
+  &.active span
+    background-color: transparent
+    &:before,
+    &:after
+      top: 0
+    &:before
+      transform: rotate(45deg)
+    &:after
+      transform: rotate(-45deg)
+
+@media only screen and (max-width: $breakpoint)
+  .nav-mobile
+    display: block
+
+  nav
+    width: 100%
+    padding: 0 15px
+    ul
+      display: none
+      li
+        float: none
+        a
+          padding: 15px
+        ul li a
+          padding-left: 30px
+
+//resize menu end //
+
+// scrolling gallery
 .scrolling-gallery
   height: 90vh
   width: 100vw
@@ -207,12 +288,10 @@ a:hover, a:active, a:visited
     overflow-y: hidden
 
 .scrolling-gallery-inner
-  padding-left: 200px
   height: 100%
   width: auto
   white-space: normal
   @media (min-width: $screen-sm-min)
-    padding-left: 200px
     white-space: normal
   @media (min-width: $screen-md-min)
     padding-left: 200px
@@ -324,7 +403,13 @@ a:hover, a:active, a:visited
 
 .information-page
   width: 100%
-  padding-left: 350px
+  padding-left: 0
+  @media (min-width: $screen-sm-min)
+    padding-left: 0
+  @media (min-width: $screen-md-min)
+    padding-left: 350px
+  @media (min-width: $screen-lg-min)
+    padding-left: 350px
 
 .information-text-h1
   padding-top: 20px
@@ -676,9 +761,15 @@ a:hover, a:active, a:visited
 .masonry-gallery
   height: calc(100vh - 50px)
   width: 100%
-  padding-left: 200px
+  padding-left: 0
   padding-top: 50px
   overflow: scroll
+  @media (min-width: $screen-sm-min)
+    padding-left: 0
+  @media (min-width: $screen-md-min)
+    padding-left: 200px
+  @media (min-width: $screen-lg-min)
+    padding-left: 200px
 
 .masonry-post
   margin-bottom: 5px
