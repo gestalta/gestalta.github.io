@@ -90,13 +90,6 @@ a:hover, a:active, a:visited
   text-align: right
   list-style: none
   padding: 10px 0
-  display: none
-  @media (min-width: $screen-sm-min)
-    display: none
-  @media (min-width: $screen-md-min)
-    display: inline-block
-  @media (min-width: $screen-lg-min)
-    display: inline-block
 
 .main-menu li
   width: 100%
@@ -129,51 +122,6 @@ a:hover, a:active, a:visited
   color: #333
 
 .sticky-wrapper.is-sticky .main-menu .home
-  opacity: 1
-  visibility: visible
-
-.main-menu-splash
-  z-index: 9999
-  background: white
-  text-transform: uppercase
-  font-size: 20px
-  line-height: 22px
-  text-align: right
-  list-style: none
-  padding: 10px 0
-
-.main-menu-splash li
-  width: 100%
-  padding-top: 5px
-  display: none
-  background: #fff
-  width: auto
-  display: inline-block
-  margin: 0 0 0 40px
-
-.main-menu-splash li a
-  display: block
-  padding: 0 5px
-  margin: 0
-
-.main-menu-splash li:hover, .main-menu-splash li.nav-active
-  background: #333
-  a
-    color: #fff
-
-.main-menu-splash a:hover, .main-menu-splash a:active, .main-menu-splash a:link, .main-menu-splash a:visited
-  text-decoration: none !important
-
-.main-menu-splash .home
-  margin-left: 0
-  transition: opacity 0.3s linear
-  opacity: 0
-  visibility: hidden
-
-.main-menu-splash a
-  color: #333
-
-.sticky-wrapper.is-sticky .main-menu-splash .home
   opacity: 1
   visibility: visible
 
