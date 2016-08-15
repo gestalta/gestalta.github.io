@@ -1,0 +1,149 @@
+.main-menu
+  z-index: 9999
+  background: white
+  text-transform: uppercase
+  font-size: 20px
+  line-height: 22px
+  text-align: right
+  list-style: none
+  padding: 10px 0
+
+.main-menu li
+  padding-top: 5px
+  display: none
+  background: #fff
+  width: auto
+  display: inline-block
+  margin: 0 0 0 40px
+
+.main-menu li a
+  display: block
+  padding: 0 5px
+  margin: 0
+
+.main-menu li:hover, .main-menu li.nav-active
+  background: #333
+  a
+    color: #fff
+
+.main-menu a:hover, .main-menu a:active, .main-menu a:link, .main-menu a:visited
+  text-decoration: none !important
+
+.main-menu .home
+  margin-left: 0
+  transition: opacity 0.3s linear
+  opacity: 0
+  visibility: hidden
+
+.main-menu a
+  color: #333
+
+.sticky-wrapper.is-sticky .main-menu .home
+  opacity: 1
+  visibility: visible
+
+//resize menu //
+$content-width: 1000px
+$breakpoint: 800px
+$nav-height: 70px
+$nav-background: #ffffff
+$nav-font-color: #333
+$link-hover-color: #333
+
+nav
+  float: right
+  ul
+    list-style: none
+    margin: 0
+    padding: 0
+    li
+      float: left
+      position: relative
+      a
+        display: block
+        padding: 0 20px
+        background: $nav-background
+        color: $nav-font-color
+        text-decoration: none
+        &:hover
+          background: $link-hover-color
+          color: $nav-font-color
+        &:not(:only-child):after
+        padding-left: 4px
+        content: ' ▾'
+      ul li
+        min-width: 190px
+        & a
+          padding: 15px
+          line-height: 20px
+          z-index: 1
+
+.nav-mobile
+  display: none
+  position: absolute
+  top: 0
+  right: 0
+  background: $nav-background
+  height: $nav-height
+  width: $nav-height
+
+#nav-toggle
+  position: absolute
+  left: 18px
+  top: 22px
+  cursor: pointer
+  padding: 10px 35px 16px 0px
+  span,
+  span:before,
+  span:after
+    cursor: pointer
+    border-radius: 1px
+    height: 5px
+    width: 35px
+    background: $nav-font-color
+    position: absolute
+    display: block
+    content: ''
+    transition: all 300ms ease-in-out
+  span:before
+    top: -10px
+  span:after
+    bottom: -10px
+  &.active span
+    background-color: transparent
+    &:before,
+    &:after
+      top: 0
+    &:before
+      transform: rotate(45deg)
+    &:after
+      transform: rotate(-45deg)
+
+@media only screen and (max-width: $breakpoint)
+  .nav-mobile
+    display: block
+
+  nav
+    width: 100%
+    padding: 0 15px
+    ul
+      display: none
+      li
+        float: none
+        a
+          padding: 15px
+          line-height: 20px
+        ul li a
+          padding-left: 30px
+
+@media screen and (min-width: $breakpoint)
+  .nav-list
+    display: block !important
+
+.navigation
+  background: $nav-background
+
+.nav-container
+  margin: 0 auto
+
+//resize menu end //
