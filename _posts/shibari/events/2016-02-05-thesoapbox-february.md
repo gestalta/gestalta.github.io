@@ -16,7 +16,7 @@ Featuring performances from two innovative and evocative international shibari a
 
 **ALBERTO NO SHIBARI** & **KUSS** (Barcelona, Spain)
 
-**AVALON** (Australia) & his beautiful model for the evening **LAURA CYLON** (France)
+**AVALON** (Australia) & **LAURA CYLON** (France)
 
 For full details of the event, visit <a href="http://soapboxshibari.com/February2016" target= "_blank_">soapboxshibari.com/February2016</a>
 
