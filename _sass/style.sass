@@ -19,12 +19,14 @@ a:hover, a:active, a:visited
   @media (min-width: $screen-sm-min)
     padding-left: 16px
     padding-top: 15px
-  @media (min-width: $screen-md-min)
+  @media (min-width: $screen-break-min)
     padding-left: 30px
     padding-top: 6px
-  @media (min-width: $screen-lg-min)
-    padding-left: 30px
-    padding-top: 6px
+
+.gestalta a
+  color: #333
+  padding: 0
+
 
 
 .title
@@ -134,9 +136,7 @@ a:hover, a:active, a:visited
   display: none
   @media (min-width: $screen-sm-min)
     display: none
-  @media (min-width: $screen-md-min)
-    display: inline-block
-  @media (min-width: $screen-lg-min)
+  @media (min-width: $screen-break-min)
     display: inline-block
 
 
@@ -151,23 +151,17 @@ a:hover, a:active, a:visited
 // menu bar
 .submenu
   z-index: 9999
-  text-align: right
   background: white
   height: auto
   top: 0
+  margin-left: 20px
+  text-align: right
+  padding-top: 20px
   @media (min-width: $screen-sm-min)
     margin-left: 20px
-  @media (min-width: $screen-md-min)
-    width: 185px
-    margin-left: 20px
-    position: absolute
-    text-align: left
-    height: 95vh
-    margin-top: 40px
-    margin-left: 20px
-    padding: 0 10px
-    padding-top: 40px
-  @media (min-width: $screen-lg-min)
+    text-align: right
+    height: auto
+  @media (min-width: $screen-break-min)
     width: 215px
     margin-left: 50px
     position: absolute
@@ -185,15 +179,23 @@ a:hover, a:active, a:visited
 .submenu-title
   list-style: none
   padding-left: 3px
-  font-size: 15px
+  font-size: 17px
   margin-bottom: 2px
   font-weight: bold
+  @media (min-width: $screen-sm-min)
+    font-size: 17px
+  @media (min-width: $screen-break-min)
+    font-size: 15px
 
 .submenu-options
-  font-size: 13px
+  font-size: 15px
   line-height: 1.2
   list-style: none
   padding-left: 0
+  @media (min-width: $screen-sm-min)
+    font-size: 15px
+  @media (min-width: $screen-break-min)
+    font-size: 13px
 
 .submenu-options a
   color: #333
@@ -210,7 +212,7 @@ a:hover, a:active, a:visited
   margin: 0
 
 //resize menu //
-$breakpoint: 800px
+$breakpoint: 882px
 $nav-height: 70px
 $nav-background: #ffffff
 $nav-font-color: #333
@@ -259,7 +261,6 @@ $link-hover-color: #333
 @media only screen and (max-width: $breakpoint)
   .nav-mobile
     display: block
-
   nav
     width: 100%
     padding: 0 15px
@@ -283,10 +284,7 @@ $link-hover-color: #333
   @media (min-width: $screen-sm-min)
     overflow-x: hidden
     overflow-y: auto
-  @media (min-width: $screen-md-min)
-    overflow-x: auto
-    overflow-y: hidden
-  @media (min-width: $screen-lg-min)
+  @media (min-width: $screen-break-min)
     overflow-x: auto
     overflow-y: hidden
 
@@ -296,11 +294,8 @@ $link-hover-color: #333
   white-space: normal
   @media (min-width: $screen-sm-min)
     white-space: normal
-  @media (min-width: $screen-md-min)
+  @media (min-width: $screen-break-min)
     padding-left: 200px
-    white-space: nowrap
-  @media (min-width: $screen-lg-min)
-    padding-left: 255px
     white-space: nowrap
 
 .scrolling-gallery-image-container
@@ -312,12 +307,7 @@ $link-hover-color: #333
     display: block
     padding-bottom: 40px
     margin: 0 16px
-  @media (min-width: $screen-md-min)
-    display: inline-block
-    height: 100%
-    padding-bottom: 0
-    margin: 0 10px
-  @media (min-width: $screen-lg-min)
+  @media (min-width: $screen-break-min)
     display: inline-block
     height: 100%
     padding-bottom: 0
@@ -329,10 +319,7 @@ $link-hover-color: #333
   @media (min-width: $screen-sm-min)
     width: calc(100%)
     height: auto
-  @media (min-width: $screen-md-min)
-    height: calc(100% - 40px)
-    width: auto
-  @media (min-width: $screen-lg-min)
+  @media (min-width: $screen-break-min)
     height: calc(100% - 40px)
     width: auto
 
@@ -377,14 +364,22 @@ $link-hover-color: #333
   position: relative
   display: inline-block
   height: auto
-  margin: 0 10px
-  margin-top: 10px
-  padding-left: 20px
-  padding-bottom: 40px
-  max-width: 300px
+  margin-top: 3px
+  padding-left: 16px
+  padding-right: 16px
+  padding-bottom: 20px
   white-space: normal
   vertical-align: bottom
   line-height: 15px
+  @media (min-width: $screen-break-min)
+    padding-left: 20px
+    padding-bottom: 40px
+    max-width: 300px
+    margin: 0 10px
+    padding-right: 0
+    margin-top: 10px
+
+
 
 .scrolling-gallery-archive-item-caption-title
   font-size: 17px
@@ -409,12 +404,10 @@ $link-hover-color: #333
 
 .information-page
   width: 100%
-  padding-left: 0
+  padding-left: 16px
   @media (min-width: $screen-sm-min)
-    padding-left: 0
-  @media (min-width: $screen-md-min)
-    padding-left: 350px
-  @media (min-width: $screen-lg-min)
+    padding-left: 16px
+  @media (min-width: $screen-break-min)
     padding-left: 350px
 
 .information-text-h1
@@ -424,10 +417,13 @@ $link-hover-color: #333
   @extend .jp-minus
   position: relative
   z-index: 4
+  padding-right: 16px
   pointer-events: none
   font-size: 30px
   @media (min-width: $screen-sm-min)
     font-size: 30px
+  @media (min-width: $screen-break-min)
+    padding-right: 0
   @media (min-width: $screen-md-min)
     font-size: 50px
   @media (min-width: $screen-lg-min)
@@ -454,8 +450,6 @@ $link-hover-color: #333
     padding-right: 20px
   @media (min-width: $screen-md-min)
     padding-right: 200px
-  @media (min-width: $screen-lg-min)
-    padding-right: 200px
 
 .information-list
   list-style: none
@@ -476,11 +470,7 @@ $link-hover-color: #333
   height: auto
   padding-bottom: 15px
   padding-left: 15px
-  @media (min-width: $screen-md-min)
-    width: 50%
-    padding-right: 15px
-    padding-left: 0px
-  @media (min-width: $screen-lg-min)
+  @media (min-width: $screen-sm-min)
     width: 50%
     padding-right: 15px
     padding-left: 0px
@@ -492,9 +482,7 @@ $link-hover-color: #333
   height: auto
   padding-left: 15px
   padding-bottom: 15px
-  @media (min-width: $screen-md-min)
-    width: 50%
-  @media (min-width: $screen-lg-min)
+  @media (min-width: $screen-sm-min)
     width: 50%
 
 .text-image-centre
@@ -768,14 +756,14 @@ $link-hover-color: #333
   height: calc(100vh - 50px)
   width: 100%
   padding-left: 0
-  padding-top: 50px
+  padding-top: 0
   overflow: scroll
   @media (min-width: $screen-sm-min)
     padding-left: 0
-  @media (min-width: $screen-md-min)
+    padding-top: 0
+  @media (min-width: $screen-break-min)
     padding-left: 200px
-  @media (min-width: $screen-lg-min)
-    padding-left: 200px
+    padding-top: 50px
 
 .masonry-post
   margin-bottom: 5px
