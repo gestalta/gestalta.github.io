@@ -32,7 +32,9 @@ I am happy to discuss the possibility of traveling to other locations.
 |                    | --:                 | --:             |
 |per hour            | £45                 | £30 per couple  |
 |2 hours             | £90                 | £60 per couple  |
+|3 hours             | £120                | £75 per couple  |
 |3 x 2 hour sessions | £225                | £150 per couple |
+|3 x 3 hour sessions | £300                | £185 per couple |
 
 ^^small groups = 2 to 3 couples
 
@@ -43,3 +45,5 @@ These prices are based on lessons taught from my home.  For lessons taught at <a
 <h2 class="information-text-h2"> Models / Partners</h2>
 
 You are very welcome to bring your own model, whether it is a partner or a friend to all lessons.  If you don’t have anyone to bring and you’d like me to arrange a model for you, then I’m very happy to do so.  Most models will charge a fee for their time, typically around £20 per hour, although this amount is at the discretion of the individual model.
+
+<em>"Can not recommend Gestalta enough for her private lessons - a wonderfully knowledgable and patient teacher able to tailer the classes to your needs!"</em> - M
