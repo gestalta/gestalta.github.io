@@ -1,7 +1,7 @@
 ---
 layout: shibari-performancearchive
 title:  Rope Spirit
-date:   2016-07-16 21:17:59 +0100
+date:   2016-07-02 21:17:59 +0100
 permalink: shibari/performance/:title
 categories:
  - archiveshibari
