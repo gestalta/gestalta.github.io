@@ -11,6 +11,7 @@ credits:
   Model: Sophia </br>
   Photography: MissBones, InViaggio"
 mainimage: https://farm8.staticflickr.com/7460/27012809704_daa2daf6f9_o.jpg
+mainimagealt: Shibari performance by Gestalta at The Soap Box. Model is Sophia 
 images:
  - url: https://farm8.staticflickr.com/7457/27589280166_b2a7aac57c_o.jpg
    caption: Gestalta & Sophia performing at The Soap Box, April 2016. Anatomie Studio, London

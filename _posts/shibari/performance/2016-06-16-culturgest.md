@@ -11,6 +11,7 @@ credits:
   Model: Gestalta </br>
   Photography: Daniel Malhão </br>"
 mainimage: https://c6.staticflickr.com/9/8654/29823558885_c6621bbf3a_o.jpg
+mainimagealt: Shibari performance Hikyaku, running man, shibari suspension by Pedro & Gestalta 
 images:
  - url: https://c3.staticflickr.com/8/7762/29530754050_c417748700_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
