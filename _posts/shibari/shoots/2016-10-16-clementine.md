@@ -1,7 +1,7 @@
 ---
 layout: shibari-performancearchive
 title:  Anatomie Session III
-date:   2016-07-01 21:17:59 +0100
+date:   2016-10-16 21:17:59 +0100
 permalink: shibari/photos/clementine-anatomie
 categories:
  - archiveshibari
