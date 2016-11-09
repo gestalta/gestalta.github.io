@@ -10,7 +10,7 @@ credits:
   "Rigger: Gestalta </br>
   Model: Sophia</br>
   Photography: Petr Jedinák"
-mainimage: https://c5.staticflickr.com/6/5730/30454646100_5174aa825a_o.jpg
+mainimage: https://c4.staticflickr.com/6/5576/30755154475_620dcc95a7_o.jpg
 mainimagealt: Shibari performance by Gestalta and Sophia at Prague Shibari Festival 2016
 images:
  - url: https://c5.staticflickr.com/6/5730/30454646100_5174aa825a_o.jpg

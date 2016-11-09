@@ -9,7 +9,7 @@ locationdate: Tokyo // 19 July 2015
 credits:
   "Rigger: Pedro</br>
   Model: Gestalta"
-mainimage: /img/shibari/performance/Pedro-Gestalta-Tokyo2.jpg
+mainimage: https://c1.staticflickr.com/9/8268/30242779856_0fac470daf_o.jpg
 mainimagealt: Akechi Denki memorial event shibari performance by Pedro & Gestalta
 images:
  - url: https://c7.staticflickr.com/8/7581/30162032102_4902c5237c_o.jpg

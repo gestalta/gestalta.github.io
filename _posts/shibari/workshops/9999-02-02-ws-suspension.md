@@ -12,7 +12,7 @@ Gestalta will begin the class by reviewing everyone’s gote individually to mak
 
 Gestalta will then discuss some of the reasons behind why we do suspension, the different styles and ways to use it, and the feeling of suspension from the perspective of both the rigger and the model.
 
-She will also explain some of the most important elements in safe suspension, and will gradually build these into a basic yoko-tsuri (side suspension).
+She will also explain some of the most important elements in safe suspension, and will gradually build these into a basic yoko-zuri (side suspension).
 
 The elements covered in this workshop include:
 

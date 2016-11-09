@@ -17,3 +17,6 @@ github_username:  gestalta
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap

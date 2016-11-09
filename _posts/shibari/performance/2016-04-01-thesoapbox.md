@@ -5,13 +5,13 @@ date:   2016-04-08 21:17:59 +0100
 permalink: shibari/performance/:title
 categories:
  - archiveshibari
-locationdate: London // 1 April 2016
+locationdate: London // April 2016
 credits:
   "Rigger: Gestalta </br>
   Model: Sophia </br>
   Photography: MissBones, InViaggio"
 mainimage: https://farm8.staticflickr.com/7460/27012809704_daa2daf6f9_o.jpg
-mainimagealt: Shibari performance by Gestalta at The Soap Box. Model is Sophia 
+mainimagealt: Shibari performance by Gestalta at The Soap Box. Model is Sophia
 images:
  - url: https://farm8.staticflickr.com/7457/27589280166_b2a7aac57c_o.jpg
    caption: Gestalta & Sophia performing at The Soap Box, April 2016. Anatomie Studio, London
@@ -106,5 +106,4 @@ images:
 
 ---
 
-
-Performance at The Soap Box, Anatomie Studio, London Performance at The Soap Box, Anatomie Studio, London Performance at The Soap Box, Anatomie Studio, London Performance at The Soap Box, Anatomie Studio, London
+"Circles" - an intense and dynamic rope sequence that uses a circular narrative to explore the relationship between the themes of ritual, shibari, and theatre. Performed for the first time at The Soap Box, London, 1st April 2016
