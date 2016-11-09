@@ -122,3 +122,4 @@ images:
    caption: "Performing at Prague Shibari Festival. Ropes by Gestalta / Model: Sophia / Photo: Petr Jedinák"
    alt: Shibari performance by Gestalta and Sophia at Prague Shibari Festival 2016
 ---
+Performance on 28th October 2016 at the Prague Shibari Festival, Czech Republic; a 3 day event of workshops and performances organised by Soptik.
