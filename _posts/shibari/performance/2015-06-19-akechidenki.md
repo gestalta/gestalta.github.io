@@ -22,6 +22,6 @@ images:
    caption: Performance by Pedro & Gestalta, Tokyo, 19 July 2015
    alt: Pedro & Gestalta performance in Tokyo, black and white images of a nude woman in shibari suspensions.
 ---
-Snapshots from a performance with Pedro at an event in Tokyo, organised by Nawashi Kanna to mark the 10th anniversary of the passing of Akechi Denki Sensei.
+Snapshots from a shibari performance with Pedro at an event in Tokyo, organised by Nawashi Kanna to mark the 10th anniversary of the passing of Akechi Denki Sensei.
 
-The event also included performances from Kanna & Kagura, a screening of one of the scenes from Pedro's film "<a href="http://www.jyowa.com/" target="_blank_">Jyowa</a>", and a public discussion session with Kanna, Naka Akira, Pedro, and others.
+The event also included performances from Nawashi Kanna & Kagura, a screening of one of the scenes from Pedro's film "<a href="http://www.jyowa.com/" target="_blank_">Jyowa</a>", and a public discussion session with Kanna, Naka Akira, Pedro, and others.
