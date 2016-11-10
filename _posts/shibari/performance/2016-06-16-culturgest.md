@@ -11,59 +11,59 @@ credits:
   Model: Gestalta </br>
   Photography: Daniel Malhão </br>"
 mainimage: https://c6.staticflickr.com/9/8654/29823558885_c6621bbf3a_o.jpg
-mainimagealt: Shibari performance Hikyaku, running man, shibari suspension by Pedro & Gestalta 
+mainimagealt: Shibari performance Hikyaku, running man, shibari suspension by Pedro & Gestalta
 images:
  - url: https://c3.staticflickr.com/8/7762/29530754050_c417748700_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Shibari performance by Pedro and Gestalta. Portrait of a woman in ropes
  - url: https://c6.staticflickr.com/9/8654/29823558885_c6621bbf3a_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Shibari performance by Pedro and Gestalta. Hikyaku-zuri, running man suspension
  - url: https://c8.staticflickr.com/9/8450/29740645111_0c0c9a7861_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Pedro tying Gestalta during a shibari performance at Culturgest, Lisbon
  - url: https://c1.staticflickr.com/9/8887/29787874336_75ab0dd450_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Pedro tying Gestalta in a face down suspension during a shibari performance
  - url: https://c8.staticflickr.com/9/8201/29197159263_319e36347f_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Shibari performance by Pedro and Gestalta. View of a gote during suspension
  - url: https://c1.staticflickr.com/9/8468/29530743360_4c83ebde78_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Pedro tying Gestalta during a shibari performance at Culturgest, Lisbon
  - url: https://c2.staticflickr.com/9/8057/29823551745_55812d0ca8_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Agura-zuri, cross-legged suspension in a shibari performance by Pedro and Gestalta
  - url: https://c8.staticflickr.com/9/8716/29823550655_839151b18b_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Gestalta in Sakasa-zuri, inverted suspension, during a shibari performance with Pedro
  - url: https://c2.staticflickr.com/9/8186/29197196073_8bfbedfdc2_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Gestalta in Sakasa-zuri, inverted suspension, during a shibari performance with Pedro
  - url: https://c5.staticflickr.com/9/8256/29710502252_2178cc2956_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Bridge suspension, during a shibari performance by Pedro and Gestalta
  - url: https://c6.staticflickr.com/9/8056/29197185333_5a357fbe8d_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Bridge suspension, during a shibari performance by Pedro and Gestalta
  - url: https://c4.staticflickr.com/9/8536/29740623731_002e3583d3_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Back view of a yoko-zuri, side suspension, ropes by Pedro, model Gestalta
  - url: https://c2.staticflickr.com/9/8217/29740621121_5c93780120_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Rope details from a shibari performance by Pedro and Gestalta at Culturgest
  - url: https://c4.staticflickr.com/9/8160/29740618051_983f43424f_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Pedro untying Gestalta at the end of a shibari performance
  - url: https://c5.staticflickr.com/9/8151/29195924044_0bcaa49d45_o.jpg
    caption: "Performance at Culturgest, Lisbon, June 2016 / Shibari by Pedro, Model: Gestalta, Photo: DMF"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Rope details as Pedro unties Gestalta at the end of a shibari performance
  - url: https://c8.staticflickr.com/9/8337/29197180583_e1bedb9699_o.jpg
    caption: "Discussion / Q&A session, post-performance at Culturgest, Lisbon, June 2016"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Question and answer conversation session with Pedro, Gestalta & Miguel
  - url: https://c4.staticflickr.com/9/8450/29740609731_7e03a5ccbd_o.jpg
    caption: "Pre-show preparation at Culturgest, Lisbon, June 2016"
-   alt: Shibari performance by Pedro and Gestalta. Culturgest, Lisbon, Portugal 2016
+   alt: Pedro & Gestalta in an empty art gallery preparing for a shibari performance
 ---
 These photos were not taken during the performance, rather during a 'dress' rehearsal the night before so that the sound of the camera didn't cause distraction. The next 2 nights took place in silence.
 
