@@ -24,4 +24,4 @@ Featuring;
 
 For full details of the event, visit <a href="http://soapboxshibari.com/April2016" target= "_blank_">soapboxshibari.com/June2016</a>
 
-*The Soap Box is an evening of curiosities curated by <a href="http://gestalta.co.uk" target= "_blank_">Gestalta</a> and brought to you by <a href="http://anatomiestudio.com" target="_blank_">Anatomie Studio, London</a>.*
+*The Soap Box is an evening of curiosities curated by <a href="http://gestalta.co.uk" target= "_blank_">Gestalta</a> and brought to you by Anatomie Studio, London.*
