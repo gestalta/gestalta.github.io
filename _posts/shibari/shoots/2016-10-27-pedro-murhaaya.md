@@ -39,28 +39,28 @@ images:
    alt: gestalta tied by pedro
  - url: https://c7.staticflickr.com/6/5832/30272676614_520f4cd6f1_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: gestalta tied by pedro in gyakku ebi zuri shibari with hair tie
  - url: https://c2.staticflickr.com/6/5531/30906939505_2b15b300ec_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: woman with long dark hair in gyakku ebi zuri shibari
  - url: https://c4.staticflickr.com/6/5334/30818778971_2d7f2053bf_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: woman wearing a koshimaki in hishi teppo shibari
  - url: https://c7.staticflickr.com/6/5484/30272674814_1e23cd741f_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: woman wearing a koshimaki in hishi teppo shibari suspension
  - url: https://c4.staticflickr.com/6/5444/30906936915_4a567d7635_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: pedro tying gestalta in hishi teppo shibari suspension
  - url: https://c3.staticflickr.com/6/5500/30272674034_606cd9fd00_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: photo of a nude woman in hishi teppo shibari suspension
  - url: https://c4.staticflickr.com/6/5773/30906934395_a1d1500306_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: photo of a nude woman in hishi teppo shibari suspension
  - url: https://c7.staticflickr.com/6/5573/30605775870_2bf004b29a_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
+   alt: silhouette of a man standing next to a woman tied in shibari suspension
  - url: https://c3.staticflickr.com/6/5822/30605775170_006030450e_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: gestalta tied by pedro
