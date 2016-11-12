@@ -1,8 +1,8 @@
 ---
 layout: shibari-performancearchive
-title:  Anatomie Session III
+title:  Clementine
 date:   2016-10-16 21:17:59 +0100
-permalink: shibari/photos/clementine-anatomie
+permalink: shibari/photos/clementine
 categories:
  - archiveshibari
 locationdate: London // October 2016
