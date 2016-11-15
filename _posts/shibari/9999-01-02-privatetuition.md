@@ -40,7 +40,7 @@ I am happy to discuss the possibility of traveling to other locations.
 
 These prices are based on lessons taught from my home.  For lessons taught at Anatomie Studio there is an additional charge of £10 per hour for studio hire. For lessons at other locations I may also ask for reimbursement of my travel expenses.
 
-**CONCESSION RATES**: I aim to make shibari accessible and affordable to as many people as possible, if you are a student, unemployed, claiming disability living allowance etc. I offer private tuition at only £20 per hour.
+**CONCESSIONS**: I aim to make shibari accessible and affordable to as many people as possible, if you are a student, claiming disability living allowance etc. I can offer private tuition at a reduced rate. Please contact me to discuss.
 
 <h2 class="information-text-h2"> Models / Partners</h2>
 
