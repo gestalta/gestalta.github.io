@@ -9,9 +9,15 @@ locationdate: Tokyo, Japan // May 2015
 credits:
   "Photographer: Shuji Kobayashi</br>
   Model: Gestalta"
-mainimage: https://farm8.staticflickr.com/7331/27589127386_dba91f5c1a_o.jpg
+mainimage: https://c5.staticflickr.com/6/5565/30911095492_9983e39487_o.jpg
 mainimagealt: Gestalta photographed by Shuji Kobayashi, Japan, Faded vintage style picture of seated woman with undone shirt
 images:
+ - url: https://c5.staticflickr.com/6/5565/30911095492_9983e39487_o.jpg
+   caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
+   alt: Gestalta photographed by Shuji Kobayashi. Faded, vintage style picture of seated woman with undone shirt
+ - url: https://c2.staticflickr.com/6/5687/30939250641_d5bf7bf76e_o.jpg
+   caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
+   alt: Gestalta photographed by Shuji Kobayashi. Faded, vintage style picture of seated woman with undone shirt
  - url: https://farm8.staticflickr.com/7331/27589127386_dba91f5c1a_o.jpg
    caption: "Photo: Shuji Kobayashi / Model: Gestalta / Tokyo Japan, May 2015"
    alt: Gestalta photographed by Shuji Kobayashi. Faded, vintage style picture of seated woman with undone shirt
