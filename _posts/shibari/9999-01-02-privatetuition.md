@@ -21,26 +21,14 @@ In addition to individual lessons, I am also happy to teach small groups of 2 to
 I typically teach private lessons in sessions of 1 to 3 hours as I feel this is a good way to learn productively without getting overloaded with information. However, I’m happy to teach more intensive full days in two 3 hour sessions with a break for lunch in the middle, which might be more convenient for those traveling a longer distance for sessions!
 
 <h2 class="information-text-h2">Venues</h2>
-Most lessons are taught either from my home in South East London – a clean, warm, and modern environment, with high ceilings, suspension point, and a relaxed atmosphere, or Anatomie Studio in Peckham, a spacious and friendly dedicated rope studio with lots of suspension points, soft flooring, and great natural light – this is particularly good if you want to book private lessons for a small group of people.
+Most lessons are taught from my home in South East London – a clean, warm, and modern environment, with high ceilings, suspension point, and a relaxed atmosphere.
 
 I am happy to discuss the possibility of traveling to other locations.
 
 <h2 class="information-text-h2">Pricing</h2>
 
-{:.table.table-bordered}
-|                    | Individual Lessons  | Small Groups^^  |
-|                    | --:                 | --:             |
-|per hour            | £45                 | £30 per couple  |
-|2 hours             | £90                 | £60 per couple  |
-|3 hours             | £120                | £75 per couple  |
-|3 x 2 hour sessions | £225                | £150 per couple |
-|3 x 3 hour sessions | £300                | £185 per couple |
-
-^^small groups = 2 to 3 couples
-
-These prices are based on lessons taught from my home.  For lessons taught at Anatomie Studio there is an additional charge of £10 per hour for studio hire. For lessons at other locations I may also ask for reimbursement of my travel expenses.
-
-**CONCESSIONS**: I aim to make shibari accessible and affordable to as many people as possible, if you are a student, claiming disability living allowance etc. I can offer private tuition at a reduced rate. Please contact me to discuss.
+<b>Individual Lessons</b> = £45 per hour<br>
+<b>Small Groups (2-3 couples)</b> = £30 per couple per hour
 
 <h2 class="information-text-h2"> Models / Partners</h2>
 
