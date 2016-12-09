@@ -1,6 +1,6 @@
 ---
 layout: shibari-performancearchive
-title:  The Soap Box
+title:  The Soap Box // Pedro & Gestalta
 date:   2016-12-02 21:17:59 +0100
 permalink: shibari/performance/:title
 categories:
