@@ -8,38 +8,12 @@ categories:
 locationdate: Monthly // London
 mainimage: https://c5.staticflickr.com/8/7344/27630456556_afefc80099_o.jpg
 ---
-
-<img src="https://c5.staticflickr.com/8/7344/27630456556_afefc80099_o.jpg" class="text-image-left" />
-**Introduction to Shibari** is a full day workshop that I lead once a month in London. The workshop has been running since August 2015, though will take a break between December 2016 and April 2017, resuming again over the summer!
+<img src="{{site.baseurl}}/img/shibari/events/gestalta-bishop-introtoshibari.jpg" class="text-image-left" />
+**Introduction to Shibari** is a full day workshop that I taught monthly in London from August 2015, to November 2016. In 2017, this will take on an exciting new life, so watch this space!
 
 These classes are suitable for those who are curious about shibari and would like to learn all the fundamental basics of this practice in a safe, inclusive and body-positive environment.  I teach in a way that demonstrates the reasons behind what you’re tying – giving you the tools to not only follow the patterns that I make, but to work out how to make your own.
 
-There is no experience, no rope and no partner required to book into the beginner shibari workshops!
-
-Tickets are priced at £50 for individuals, or £80 for couples for the whole day! You can <a href="https://www.tickettailor.com/checkout/view-event/id/36315/chk/c632" target="blank">book a ticket using this link.</a>
-
-Dates for 2016, and a description of the workshop content are listed at the below!
-
 **ANY QUESTIONS?** Feel free to contact me!
-
-&nbsp;
-
-<img src="{{site.baseurl}}/img/shibari/events/gestalta-bishop-introtoshibari.jpg" class="text-image-right" />
-
-<h2 class="information-text-h2">2016 Dates</h2>
-<ul class="information-list">
-<li>January 17th</li>
-<li>February 21st</li>
-<li>March 20th</li>
-<li>April 17th</li>
-<li>May 15th</li>
-<li>June 19th</li>
-<li>July 17th</li>
-<li>August 21st</li>
-<li>September 18th</li>
-<li>October 16th</li>
-<li>November 20th</li>
-</ul>
 
 <h2 class="information-text-h2">Introduction to Shibari - Workshop Description</h2>
 
