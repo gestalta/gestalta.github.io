@@ -13,7 +13,7 @@ layout: default
 
     {% for image in page.images %}
       <div class="scrolling-gallery-image-container">
-        <img src="{{image.url}}" class="scrolling-gallery-image" />
+        <img src="{{image.url}}" alt="{{image.alt}}" class="scrolling-gallery-image" />
         <div class="scrolling-gallery-image-caption">
           {{image.caption}}
         </div>
