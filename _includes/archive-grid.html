@@ -1,11 +1,10 @@
 <div>
   <link rel="stylesheet" type="text/css" href="{{base_url}}/css/grid.css" />
-  <style type="text/css"></style>
   	<div id="masonry-content">
           {% for post in site.categories[include.category] %}
           <div class="masonry-post">
             <a href="{{post.url}}" class="masonry-gallery-hover">
-              <img class='post-image link-image' src="{{post.mainimage}}" />
+              <img class='post-image link-image' alt="{{post.mainimagealt}}" src="{{post.mainimage}}" />
               <div class="postcontent masonry-gallery-archive-title">{{post.title}} // {{post.locationdate}}</div>
             </a>
           </div>
