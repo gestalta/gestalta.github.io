@@ -9,6 +9,9 @@ a
 a:hover, a:active, a:visited
   text-decoration: none
 
+#gestalta
+  margin-top: 220px
+
 .gestalta
   @extend .jp
   float: left
@@ -80,11 +83,24 @@ a:hover, a:active, a:visited
   left: 0
 
 .splash-section-text
-  margin-top: 30px
+  // margin-top: 30px
   max-width: 600px
   float: right
 
+#splash-window
+  margin-top: 70px
+
+.main-menu-container
+  z-index: 9999
+  position: fixed
+  top: 0
+  right: 0
+  width: 100%
+  overflow: hidden
+  background: white
+
 .main-menu
+  border-bottom: 5px solid #333
   z-index: 9999
   background: white
   text-transform: uppercase
@@ -93,6 +109,7 @@ a:hover, a:active, a:visited
   text-align: right
   list-style: none
   padding: 10px 0
+  display: block
 
 .main-menu li
   width: 100%
@@ -125,16 +142,16 @@ a:hover, a:active, a:visited
 .main-menu a
   color: #333
 
-.sticky-wrapper.is-sticky .main-menu .home
+// .sticky-wrapper.is-sticky .main-menu .home
   opacity: 1
   visibility: visible
 
-.main-menu2
-  display: none
-  @media (min-width: $screen-sm-min)
-    display: none
-  @media (min-width: $screen-break-min)
-    display: inline-block
+// .main-menu2
+//   display: none
+//   @media (min-width: $screen-sm-min)
+//     display: none
+//   @media (min-width: $screen-break-min)
+//     display: inline-block
 
 
 .splash-section-column
@@ -157,10 +174,11 @@ a:hover, a:active, a:visited
   z-index: 9999
   background: white
   height: auto
-  top: 0
+  top: 20px
   margin-left: 20px
   text-align: right
   padding-top: 0px
+  margin-top: 30px
   @media (min-width: $screen-sm-min)
     margin-left: 20px
     text-align: right
@@ -168,13 +186,13 @@ a:hover, a:active, a:visited
   @media (min-width: $screen-break-min)
     width: 215px
     margin-left: 50px
-    position: absolute
+    position: fixed
     text-align: left
     height: 95vh
     margin-top: 42px
     margin-left: 20px
     padding: 0 10px
-    padding-top: 40px
+    padding-top: 20px
 
 .submenu-section
   padding-left: 0
