@@ -1,5 +1,5 @@
 $(function(){
-  // $('.main-menu').sticky();
+  $('.main-menu').sticky();
 
   $('.scroll-link').on('click', function(e){
     var section = $(this).attr("href");
