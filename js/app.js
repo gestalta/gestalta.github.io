@@ -17,7 +17,6 @@ $(function(){
   $('.main-menu a').each(function(e, index){
     sections.push($(this).attr("href"));
   });
-  console.log(sections);
 
   $(window).scroll(function(){
     var windowPos = $(window).scrollTop(); // get the offset of the window from the top of page

@@ -11,6 +11,6 @@
   });
   $('#nav-toggle').click(function(e) {
     $(e).toggleClass('active');
-    $('nav ul').toggle();
+    $('.submenu').toggle();
   });
 })(jQuery);

@@ -146,12 +146,12 @@ a:hover, a:active, a:visited
   opacity: 1
   visibility: visible
 
-// .main-menu2
-//   display: none
-//   @media (min-width: $screen-sm-min)
-//     display: none
-//   @media (min-width: $screen-break-min)
-//     display: inline-block
+.main-menu2
+  display: none
+  @media (min-width: $screen-sm-min)
+    display: none
+  @media (min-width: $screen-break-min)
+    display: block
 
 
 .splash-section-column
@@ -178,7 +178,7 @@ a:hover, a:active, a:visited
   margin-left: 20px
   text-align: right
   padding-top: 0px
-  margin-top: 30px
+  margin-top: 55px
   @media (min-width: $screen-sm-min)
     margin-left: 20px
     text-align: right
@@ -256,6 +256,7 @@ $link-hover-color: #333
   top: 22px
   cursor: pointer
   padding: 10px 35px 16px 0px
+  z-index: 9999
   span,
   span:before,
   span:after
@@ -795,7 +796,7 @@ $link-hover-color: #333
   height: calc(100vh - 30px)
   width: 100%
   padding-left: 0
-  padding-top: 60px
+  padding-top: 1 0px
   overflow-y: auto
   @media (min-width: $screen-sm-min)
     padding-left: 0
