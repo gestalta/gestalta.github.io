@@ -48,4 +48,12 @@ hikyaku zuri<br>
 
 Kata-ashi sakasa zuri shibari (an example of how to put things together)<br>
 
-Nureki Chimuo<br> 濡木痴夢男雨<br>
+Bight 縄頭 (nawagashira)<br>
+Rope Ends 縄尻 (nawajiri)<br>
+Cinch 閂 (kannuki)<br>
+Half-Hitch 竹止め (takedome)<br>
+Munter Hitch の止め (nodome)<br>
+Reverse Munter Hitch うらの止め (uranodome)<br>
+Knot 結び目 (musubime)<br>
+Square Knot / Reef Knot 本 結び (hon musubi)<br>
+Friction 留め縄 (tomenawa)<br>
