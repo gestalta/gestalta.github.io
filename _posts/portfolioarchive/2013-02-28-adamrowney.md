@@ -9,10 +9,10 @@ locationdate: Cambridge // 2013
 credits:
   "Photographer: Adam Rowney</br>
   Model: Gestalta"
-mainimage: https://c6.staticflickr.com/9/8292/28879888261_83ebb62673_o.jpg
+mainimage: https://c1.staticflickr.com/9/8189/28340081383_e878ecc475_b.jpg
 mainimagealt: Gestalta photographed by Adam Rowney. Pastel coloured portrait of a nude ballet dancer
 images:
- - url: https://c6.staticflickr.com/9/8292/28879888261_83ebb62673_o.jpg
+ - url: https://c1.staticflickr.com/9/8189/28340081383_e878ecc475_b.jpg
    caption: "Photo: Adam Rowney / Model: Gestalta / Cambridge, February 2013"
    alt: Gestalta photographed by Adam Rowney. Pastel coloured portrait of a nude ballet dancer
  - url: https://c6.staticflickr.com/9/8292/28879888261_83ebb62673_o.jpg
