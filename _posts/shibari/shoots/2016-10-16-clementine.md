@@ -47,4 +47,3 @@ images:
    caption: "Shibari by Gestalta / Model: Clementine Poulain / Photography: Gestalta"
    alt: shibari and photography by Gestalta, model clementine
 ---
-Shibari session at Anatomie Studio, London.

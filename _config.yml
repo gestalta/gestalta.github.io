@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "GESTALTA - Artist, Performer & Model"
+title: "GESTALTA - Shibari Artist, Performer, Teacher & Model"
 email: gestalta22@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gestalta is an artist and model based in London, UK. She specialises in shibari (kinbaku / Japanese rope bondage) as both a performance artist and teacher.
+  Gestalta is an artist and model based in Berlin & London. She specialises in shibari (kinbaku / Japanese rope bondage) as both a performance artist and teacher.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gestalta.co.uk" # the base hostname & protocol for your site
 twitter_username: gestalta
