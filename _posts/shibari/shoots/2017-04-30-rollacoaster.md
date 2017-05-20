@@ -14,19 +14,14 @@ mainimage: https://c1.staticflickr.com/5/4199/33931869344_6bd9500bd8_b.jpg
 mainimagealt: Contorted shibari floor bondage in a domestic setting
 images:
  - url: https://c1.staticflickr.com/5/4199/33931869344_6bd9500bd8_b.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Contorted shibari floor bondage in a domestic setting
  - url: https://c1.staticflickr.com/5/4243/33931866904_0e2e965c96_b.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Contorted shibari floor bondage in a domestic setting
  - url: https://c1.staticflickr.com/5/4224/33931864134_5031376923_b.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Contorted shibari floor bondage in a domestic setting
  - url: https://c1.staticflickr.com/5/4244/33931862734_014065a3be_b.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Contorted shibari floor bondage in a domestic setting
  - url: https://c1.staticflickr.com/5/4247/33931860994_13371ae25d_b.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Contorted shibari floor bondage in a domestic setting
 ---
 Rollacoaster Magazine / Fall-Winter 2016<br>
