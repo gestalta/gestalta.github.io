@@ -29,4 +29,4 @@ images:
    caption: "Shibari by Fred Hatt / Model: Gestalta / Photo: Miss Bones"
    alt: shibari by Fred Hatt and Gestalta
 ---
-Shibari session at Anatomie Studio, London.
+Shibari session, London.
