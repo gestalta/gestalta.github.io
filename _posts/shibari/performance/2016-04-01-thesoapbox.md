@@ -13,13 +13,7 @@ credits:
 mainimage: https://farm8.staticflickr.com/7460/27012809704_daa2daf6f9_o.jpg
 mainimagealt: Shibari performance by Gestalta at The Soap Box. Model is Sophia
 images:
- - url: https://farm8.staticflickr.com/7457/27589280166_b2a7aac57c_o.jpg
-   caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
-   alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
  - url: https://farm8.staticflickr.com/7401/27012822454_d64ed2faac_o.jpg
-   caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
-   alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
- - url: https://farm8.staticflickr.com/7319/27012847254_20a0e82a80_o.jpg
    caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
    alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
  - url: https://farm8.staticflickr.com/7492/27012852114_6bccb3e9c5_o.jpg
@@ -38,9 +32,6 @@ images:
    caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
    alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
  - url: https://farm8.staticflickr.com/7347/27012859784_d3051a7826_o.jpg
-   caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
-   alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
- - url: https://farm8.staticflickr.com/7328/27549825191_d150023f72_o.jpg
    caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
    alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
  - url: https://farm8.staticflickr.com/7460/27012809704_daa2daf6f9_o.jpg
@@ -89,9 +80,6 @@ images:
    caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
    alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
  - url: https://farm8.staticflickr.com/7411/27523510202_0fab345d6e_o.jpg
-   caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
-   alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
- - url: https://farm8.staticflickr.com/7529/27013753473_4b20792ee7_o.jpg
    caption: Gestalta & Sophia performing at The Soap Box, April 2016, London
    alt: Rope by Gestalta, Model Sophia, Shibari Performance at The Soap Box, London
  - url: https://farm8.staticflickr.com/7630/27012842524_f8e244926a_o.jpg
