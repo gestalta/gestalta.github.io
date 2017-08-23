@@ -31,9 +31,6 @@ images:
  - url: https://c7.staticflickr.com/1/693/31475733686_f3211a9867_o.jpg
    caption: "Pedro & Gestalta performing at The Soap Box, London, December 2016 / Photo: Jurij Subbotin"
    alt: Shibari performance by Pedro and Gestalta at The Soap Box, London, December 2016
- - url: https://c7.staticflickr.com/1/468/31475728526_50aa2bf4b6_o.jpg
-   caption: "Pedro & Gestalta performing at The Soap Box, London, December 2016 / Photo: Jurij Subbotin"
-   alt: Shibari performance by Pedro and Gestalta at The Soap Box, London, December 2016
  - url: https://c4.staticflickr.com/1/487/30704408323_34d2aa53cb_o.jpg
    caption: "Pedro & Gestalta performing at The Soap Box, London, December 2016 / Photo: Jurij Subbotin"
    alt: Shibari performance by Pedro and Gestalta at The Soap Box, London, December 2016

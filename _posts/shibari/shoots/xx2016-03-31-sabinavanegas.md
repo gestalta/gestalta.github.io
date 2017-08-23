@@ -37,9 +37,6 @@ images:
  - url: https://c4.staticflickr.com/9/8190/29565799915_f1779e9936_o.jpg
    caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Decorative shibari bondage and fashion photography
- - url: https://c6.staticflickr.com/9/8312/29565737445_04580929a9_o.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
-   alt: Decorative shibari bondage and fashion photography
  - url: https://c3.staticflickr.com/9/8193/28940250834_3d4d92f532_o.jpg
    caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Decorative shibari bondage and fashion photography
@@ -56,15 +53,6 @@ images:
    caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Decorative shibari bondage and fashion photography
  - url: https://c3.staticflickr.com/9/8475/29456137882_0d62da2f3d_o.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
-   alt: Decorative shibari bondage and fashion photography
- - url: https://c5.staticflickr.com/9/8428/29531762196_058e0426a6_o.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
-   alt: Decorative shibari bondage and fashion photography
- - url: https://c2.staticflickr.com/9/8266/29485456881_31267a1f2d_o.jpg
-   caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
-   alt: Decorative shibari bondage and fashion photography
- - url: https://c6.staticflickr.com/9/8426/28942366413_56a35a6384_o.jpg
    caption: "Shibari by Gestalta / Model: Sophia / Photo: Sabina Vanegas"
    alt: Decorative shibari bondage and fashion photography
  - url: https://c5.staticflickr.com/9/8382/28940242364_4d7a49d07f_o.jpg
