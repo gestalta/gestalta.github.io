@@ -36,9 +36,6 @@ images:
  - url: https://c5.staticflickr.com/9/8644/28925820596_0b8418ddbc_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
- - url: https://c2.staticflickr.com/9/8526/28957559425_6b297216ed_o.jpg
-   caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
-   alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest
  - url: https://c7.staticflickr.com/9/8029/28853109862_202e3d89a0_o.jpg
    caption: "Photo: Selina Mayer / Model: Gestalta / London, May 2014"
    alt: Gestalta photographed by Selina Mayer. Monochrome artistic nude image shot in the forest

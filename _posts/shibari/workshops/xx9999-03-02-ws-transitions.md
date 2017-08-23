@@ -1,20 +1,17 @@
 ---
-layout: text-page
-title:  "Bamboo"
-date:   2016-04-08 21:17:59 +0100
-permalink: /shibari/workshops/bamboo
+layout: text-page-education
+title:  "Introduction to transitions 1 & 2"
+date:   2015-12-12 21:17:59 +0100
+permalink: /shibari/workshops/transitions
+categories:
+ - wsfurther
+
 ---
-<img src="https://c1.staticflickr.com/3/2880/32871423653_485bd83bbf_b.jpg" class="text-image-left" />
 
-This workshop can be adjusted for a range of skill levels as it is possible to do both partials and full suspensions.
+<h2 class="information-text-h2">Introduction to transitions - Part 1</h2>
+<h2 class="information-text-h2">Introduction to transitions - Part 2</h2>
 
-It is intended to help people think outside the box and experiment with different arm positions, rather than just TK's by using bamboo as a starting point.
-
-Creating different positions using basic chest harnesses and/or hishi body ties (level 1)
-
-Starting with the position and building around it (level 2) - harder because the bamboo becomes and intrinsic part of the tie which cannot be removed.
-
-Working with using these to change the way that we work... once in the air, we can create torsions, and other positions that would be impossible without the bamboo.  In this way, it is not purely aesthetic. (level 3)
+This workshop is for those who are already able to perform basic static suspensions, but want to move on to some more dynamic work.
 
 We will work with a range of straightforward transitions to help you practice essential techniques, such as line management, lifting and lowering techniques, and beginning to understand body mechanics and movement.<br>
 At various points the class may also touch on subjects such as communication, and strategies for quick thinking in an emergency situation. To get the most out of this workshop partners are encouraged to work together, with the model as an active participant, and we will also discuss tips and tricks for models to manage their bodies within the ropes.
@@ -30,9 +27,13 @@ Exact exercises will vary depending on the level of the class. We may also revie
 <br>
 ***Riggers:***<br>
 >> Non collapsible single column tie<br>
->> Frictions, including nodome, x-friction, half-moon friction etc.<br>
+>> Solid Stem 3 rope gote that you can tie comfortably in under 8 minutes.<br>
+*(NB It is preferable that this has been taught to you in a class and reviewed by a teacher, rather than learnt purely from books/videos.)*<br>
 >> Experience with attaching and locking suspension lines efficiently.<br>
+>> Experience with hip harnesses is useful, but not essential<br>
 ***Models:***<br>
+>> Experience with being in suspension.<br>
+>> Knowledge of your wrap placement.<br>
 >> Experience with being in suspension.<br>
 <br>
 **Materials Needed**: 10 ropes of 7.5-8m in length, plus a few short pieces. Suspension equipment (e.g. ring, carabiners, rigger plate etc.). It is advisable that, no matter what you’re working with as your hardpoint, you have at least 2 carabiners spare.

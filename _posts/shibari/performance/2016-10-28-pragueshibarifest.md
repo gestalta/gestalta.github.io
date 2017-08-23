@@ -13,12 +13,6 @@ credits:
 mainimage: https://c4.staticflickr.com/6/5576/30755154475_620dcc95a7_o.jpg
 mainimagealt: Shibari performance by Gestalta and Sophia at Prague Shibari Festival 2016
 images:
- - url: https://c5.staticflickr.com/6/5730/30454646100_5174aa825a_o.jpg
-   caption: "Performing at Prague Shibari Festival. Ropes by Gestalta / Model: Sophia / Photo: Petr Jedinák"
-   alt: Shibari performance by Gestalta and Sophia at Prague Shibari Festival 2016
- - url: https://c5.staticflickr.com/6/5469/30638510052_1560cbe90f_o.jpg
-   caption: "Performing at Prague Shibari Festival. Ropes by Gestalta / Model: Sophia / Photo: Petr Jedinák"
-   alt: Shibari performance by Gestalta and Sophia at Prague Shibari Festival 2016
  - url: https://c4.staticflickr.com/6/5707/30666959371_b45ab66d89_o.jpg
    caption: "Performing at Prague Shibari Festival. Ropes by Gestalta / Model: Sophia / Photo: Petr Jedinák"
    alt: Shibari performance by Gestalta and Sophia at Prague Shibari Festival 2016

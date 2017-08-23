@@ -1,8 +1,8 @@
 ---
-layout: text-page
-title:  "Introduction To Shibari"
-date:   2015-01-01 21:17:59 +0100
-permalink: /shibari/tuition/introduction-to-shibari
+layout: text-page-education
+title:  "Introduction To Shibari Online"
+date:   2015-12-12 21:17:59 +0100
+permalink: /shibari/tuition/introduction-to-shibari-online
 ---
 <h2 class="information-text-h2">Introduction to Shibari - Free Online Tutorial Series!</h2>
 

@@ -201,6 +201,10 @@ a:hover, a:active, a:visited
   text-transform: uppercase
   padding-bottom: 10px
 
+.submenu-section-education
+  padding-left: 0
+  padding-bottom: 10px
+
 .submenu-title
   list-style: none
   padding-left: 3px
@@ -211,6 +215,19 @@ a:hover, a:active, a:visited
     font-size: 17px
   @media (min-width: $screen-break-min)
     font-size: 15px
+
+.submenu-title-level
+  list-style: none
+  padding-left: 3px
+  margin-top: 3px
+  font-size: 15px
+  margin-bottom: 2px
+  font-weight: bold
+  color: orange
+  @media (min-width: $screen-sm-min)
+    font-size: 15px
+  @media (min-width: $screen-break-min)
+    font-size: 14px
 
 .submenu-options
   font-size: 15px
@@ -482,6 +499,17 @@ $link-hover-color: #333
   @media (min-width: $screen-lg-min)
     font-size: 20px
 
+.information-text-h3
+  text-transform: uppercase
+  font-weight: bold
+  font-size: 13px
+  @media (min-width: $screen-sm-min)
+    font-size: 13px
+  @media (min-width: $screen-md-min)
+    font-size: 15px
+  @media (min-width: $screen-lg-min)
+    font-size: 16px
+
 .information-text
   height: calc(100vh - 100px)
   overflow: scroll
@@ -492,6 +520,7 @@ $link-hover-color: #333
     padding-right: 20px
   @media (min-width: $screen-md-min)
     padding-right: 200px
+
 
 .information-list
   list-style: none

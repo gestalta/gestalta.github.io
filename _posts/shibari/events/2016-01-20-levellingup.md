@@ -10,11 +10,11 @@ mainimage: https://c4.staticflickr.com/9/8848/28347752003_8569b60127_o.jpg
 ---
 <img src="https://c4.staticflickr.com/9/8848/28347752003_8569b60127_o.jpg" class="text-image-left" />
 
-I’ll be teaching a 4 week shibari course at Anatomie Studio, London for those that feel they are ‘stuck in the middle’ and looking to level up!
+I’ll be teaching a 4 week shibari course in London for those that feel they are ‘stuck in the middle’ and looking to level up!
 
 The course will take place for 4 Wednesdays, starting January 20th until February 10th, and will run from 7pm to 10.30pm every week (doors open at 6:30pm).
 
-Tickets are priced at £95 per person, or £145 per couple, and you can book your place <a href="https://www.tickettailor.com/checkout/view-event/id/41267/chk/bb66" target="_blank_">using this link</a>.  If you have any questions regarding the course you can contact me or Anatomie Studio for more information.
+Tickets are priced at £95 per person, or £145 per couple, and you can book your place <a href="https://www.tickettailor.com/checkout/view-event/id/41267/chk/bb66" target="_blank_">using this link</a>.  If you have any questions regarding the course you can contact me for more information.
 
 Look forward to seeing some of you there!
 

@@ -1,12 +1,14 @@
 ---
-layout: text-page
-title:  "Intro to transitions"
-date:   2016-04-08 21:17:59 +0100
-permalink: /shibari/workshops/transitions
----
-<img src="https://farm8.staticflickr.com/7311/27013680173_e03c9071e6_o.jpg" class="text-image-left" />
+layout: text-page-education
+title:  "Further transitions 1 & 2"
+date:   2015-11-11 21:17:59 +0100
+permalink: /shibari/workshops/further-transitions
+categories:
+ - wsfurther
 
-This workshop is for those who are already able to perform basic static suspensions, but want to move on to some more dynamic work.
+---
+<h2 class="information-text-h2">Further transitions 1 - Understanding Torsion</h2>
+<h2 class="information-text-h2">Further transitions 2 - Understandng Balance</h2>
 
 We will work with a range of straightforward transitions to help you practice essential techniques, such as line management, lifting and lowering techniques, and beginning to understand body mechanics and movement.<br>
 At various points the class may also touch on subjects such as communication, and strategies for quick thinking in an emergency situation. To get the most out of this workshop partners are encouraged to work together, with the model as an active participant, and we will also discuss tips and tricks for models to manage their bodies within the ropes.

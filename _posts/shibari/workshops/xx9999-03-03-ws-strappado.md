@@ -1,8 +1,11 @@
 ---
-layout: text-page
+layout: text-page-education
 title:  "Strappado"
-date:   2016-04-08 21:17:59 +0100
+date:   2016-01-01 21:17:59 +0100
 permalink: /shibari/workshops/strappado
+categories:
+ - wsintermediate
+
 ---
 The workshop is aimed at intermediate to advanced riggers and will cover various different types of strappado, and a variety of uses for it.
 

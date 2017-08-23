@@ -1,8 +1,10 @@
 ---
-layout: text-page
+layout: text-page-education
 title:  "Hishi Gote"
-date:   2016-04-08 21:17:59 +0100
+date:   2015-10-10 21:17:59 +0100
 permalink: /shibari/workshops/hishigote
+categories:
+ - wsbeginner
 
 ---
 The hishi gote is a functional and versatile variation on the ‘regular’ gote, characterised by a diamond (‘hishi’) pattern at the front. It is both visually beautiful and has a great flow to the tying pattern.

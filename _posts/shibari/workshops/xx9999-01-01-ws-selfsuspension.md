@@ -1,5 +1,5 @@
 ---
-layout: text-page
+layout: text-page-education
 title:  "Self Suspension"
 date:   2016-04-08 21:17:59 +0100
 permalink: /shibari/workshops/selfsuspension
