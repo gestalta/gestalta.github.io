@@ -4,17 +4,14 @@ title:  "Private Shibari Tuition"
 date:   2016-04-08 21:17:59 +0100
 permalink: /shibari/privatetuition
 ---
-I am available to give private shibari lessons to students of all levels of experience. Please feel free to <a href="{{site.baseurl}}/#contact">contact me</a> to discuss your needs and interests.
+I am available to give private shibari lessons to students of all levels of experience. Lessons are individually tailored to your needs, and you can book regular lessons to give you a structured overview, or book one-off lessons to learn particular things of interest to you with more attention to detail than can be found in a group environment. Please feel free to <a href="{{site.baseurl}}/#contact">contact me</a> to discuss your needs and interests.
 
 As someone who has extensive experience as both a rigger and a shibari model, I try to teach in a way that reflects both sides of the rope and I am happy to be booked for private sessions that focus in on particular issues for the model, helping partners to work through things together.
-
-*am available to give private shibari tuition for people of all levels, from complete beginners through to more advanced riggers. This is perfect for those that want to learn shibari but don’t have the flexibility to attend workshops, or simply want to learn in a more discreet environment. Lessons are individually tailored to your needs, and you can book regular lessons to give you a structured overview, or book one-off lessons to learn particular things of interest to you with more attention to detail than can be found in a group environment. Please feel free to contact me to discuss your needs and interests.*
 
 <h2 class="information-text-h3">Pricing</h2>
 
 <b>Individual Lessons</b> = €50 per hour<br>
 <b>Small Groups (2-3 couples)</b> = €30 per couple per hour<br>
-
 
 <h2 class="information-text-h3">Location</h2>
 
