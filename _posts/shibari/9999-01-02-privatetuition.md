@@ -15,9 +15,7 @@ As someone who has extensive experience as both a rigger and a shibari model, I 
 
 <h2 class="information-text-h3">Location</h2>
 
-Private sessions can usually be taught from my home in Birkenstraße, Berlin.
-
-I am also available to teach privately in any of the cities I am traveling to. Please see my <a href="{{site.baseurl}}/#schedule">schedule</a> for information on where I will be; you can also sign up for my <a href="{{site.baseurl}}/#contact">newsletter</a> to be kept informed.
+I am available to teach privately in any of the cities I am traveling to. Please see my <a href="{{site.baseurl}}/#schedule">schedule</a> for information on where I will be; or contact me to find out when I might be coming to your area.
 
 <h2 class="information-text-h3">Models / Partners</h2>
 
