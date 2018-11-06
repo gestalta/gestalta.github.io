@@ -2,7 +2,7 @@
 layout: text-page-education
 title:  "Exposure"
 date:   2015-11-11 21:17:59 +0100
-permalink: /shibari/workshpp/exposure
+permalink: /shibari/workshop/exposure
 categories:
  - wsbeginner
 ---

@@ -2,7 +2,7 @@
 layout: text-page
 title:  "Hard Points"
 date:   2016-04-08 21:17:59 +0100
-permalink: /education/hardpoints
+permalink: /shibari/education/hardpoints
 
 ---
 I posted a question on facebook / instagram asking people what steps they take if they're going to suspend in an unfamiliar place. Is there anything they typically do to assess the hard point? Stuff they look out for, tests they do, particular questions that they like to ask the venue owner etc.?
