@@ -1,13 +1,13 @@
 ---
 layout: shibari-performancearchive
-title:  Barcelona
+title:  No Shibari
 date:   2018-06-30 21:17:59 +0100
 permalink: shibari/photos/noshibari-jjroman
 categories:
  - archiveshibari
 locationdate: Barcelona // June 2018
 credits:
-  "Rigger: NoShibari</br>
+  "Shibari: NoShibari</br>
   Model: Gestalta</br>
   Photography: JJ Roman"
 mainimage: https://farm2.staticflickr.com/1967/44486263154_2d026c4d4f_b.jpg
