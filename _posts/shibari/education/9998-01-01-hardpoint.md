@@ -16,6 +16,7 @@ What materials is this made of?<br>
 How old is the hard point?<br>
 What is it typically used for?<br>
 How often do you perform tests on it?<br>
+What temperatures (weather and friction) do these points go through, and how does this affect the materials used?<br>
 Do you understand how this building was constructed?<br>
 Who installed these points, and what were their qualifications?<br>
 Has the point been rated or certified by an engineer?<br>
@@ -32,7 +33,7 @@ As for responses… there was a bit of a split with some people having a definit
 I’ve mixed the responses of people who knew what responses they were looking for in with the stuff that people were looking for in general because a lot of the responses were similar.<br>
 
 <h3>WHAT TO LOOK FOR</h3>
-A minimum of 1000 KG WLL (working load limit) was suggested (guessing this might be more relevant for people who are doing very dynamic suspensions and that people who do more static styles of rope / bamboo work etc. might get away with a little less??)<br>
+A minimum of 1000 KG WLL (working load limit) was suggested (guessing this might be more relevant for people who are doing very dynamic suspensions and that people who do more static styles of rope / bamboo work etc. might get away with a little less??) <br>A second person suggested a 240 KG SWL (safe working load) - working load usually takes into account a 4x safety factor (so 240KG will actually break at 960KG).
 
 **CONCRETE (or masonry)**
 This seemed by far the most controversial material to use as it’s brittle and can fail without warning and without prior deformation. Wood and metal (and also bamboo!) can bend, crack or otherwise deform before breaking (giving you time to react and get the model down).<br>
@@ -45,7 +46,7 @@ A few people suggested plates screwed in with multiple bolts.<br>
 **HARDWOOD / METAL / BEAMS etc.**<br>
 Several people said they would also look for points which are doubled in these materials also (when screwed directly up into the ceiling), although others said that where possible it may be better to put the bolt through the beam, or to put a load rated sling over the beam.<br>
 You should ideally be looking for the structural foundations that hold the building together and attaching from these points.
-“If it's a steel rod as in production set up make sure they are attached to the foundations or look at the weight distribution from the weakest point and reinforce where you can.” << this was a helpful sounding thing from Lau Bau; I don’t really feel I have enough knowledge to really understand how to put into practice myself but someone else might find useful / be able to clarify.<br>
+“If it's a steel rod as in production set up make sure they are attached to the foundations or look at the weight distribution from the weakest point and reinforce where you can.” << this was a helpful sounding thing from Lau Bau; I don’t really feel I have enough knowledge to understand how to put into practice myself but someone else might find useful / be able to clarify.<br>
 Use of a beamspreader: C-clamp was also suggested.<br>
 
 **GENERAL ADVICE**
@@ -53,7 +54,7 @@ Avoid hardpoints that you can’t clearly see all parts of (unless you can ask t
 Look for fraying, metal chips, rusted metal, wear on whatever it is anchored to etc. Look for any breakouts near the screw.<br>
 
 <h3>TESTING THE POINT</h3>
-If you’re using a tripod rig do a test swing to make sure it can’t fall over and that it’s pinned to the ground properly.<br>
+If you’re using a tripod rig do a test swing to make sure it can’t fall over and that it’s pinned/weighted to the ground properly.<br>
 
 People suggested testing points with the dynamic weight (eg. swinging) of anything from 1 to 4 people, but there was some debate over which situations this would actually be helpful in.  Most common suggestions were:<br>
 Weight test is generally more useful on metal (steel) or wooden points as you should be able to see if something doesn’t look right - you should look out for things such as bend, movement, torque etc. Listening to the sound it makes, seeing if anything falls from the point.<br>
