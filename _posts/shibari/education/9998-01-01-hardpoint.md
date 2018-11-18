@@ -9,7 +9,7 @@ I posted a question on facebook / instagram asking people what steps they take i
 
 A few people asked if I could publish the responses so I've collected and listed them here... I've deleted any duplicate answers but otherwise I haven't really done any editing on this at all.
 
-Some of the people responding were qualified (structural engineers, climbing instructors etc.), others were not and so at this stage this information should probably be taken more as an opinion survey than reliable facts. Although I'm more than happy if anyone qualified wants to send me suggestions/corrections (info@gestalta.co.uk), and at some point I'll also edit it to read a little more concisely.
+Some of the people responding were qualified (structural engineers, climbing instructors etc.), others were not and so at this stage this information should probably be taken more as an opinion survey than reliable facts. Although I'm more than happy if anyone qualified wants to send me suggestions/corrections (info@gestalta.co.uk), and at some point I'll also edit it to read a little more concisely.  Thanks goes to everyone who messaged or commented to contribute this information, and an extra thanks to Mark De Viate and Gishi Nawa who took the time to 
 
 <h3>QUESTIONS TO ASK VENUE OWNERS</h3>
 What materials is this made of?<br>
@@ -30,7 +30,7 @@ A few people said that asking someone should be a secondary option if they can�
 
 As for responses… there was a bit of a split with some people having a definite idea of what kind of answers they were looking for, and others just wanting to judge that reaction of the owner, to see if they seemed confident and knowledgeable.<br>
 
-I’ve mixed the responses of people who knew what responses they were looking for in with the stuff that people were looking for in general because a lot of the responses were similar.<br>
+I’ve mixed the responses of people who knew what responses they were looking for in with the stuff that people were looking for in general because a lot of the responses were similar. This sentence uses the word responses far too many times.<br>
 
 <h3>WHAT TO LOOK FOR</h3>
 A minimum of 1000 KG WLL (working load limit) was suggested (guessing this might be more relevant for people who are doing very dynamic suspensions and that people who do more static styles of rope / bamboo work etc. might get away with a little less??) <br>A second person suggested a 240 KG SWL (safe working load) - working load usually takes into account a 4x safety factor (so 240KG will actually break at 960KG).

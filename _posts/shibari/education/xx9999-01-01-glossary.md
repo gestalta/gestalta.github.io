@@ -15,7 +15,7 @@ Newaza<br>
 Nawashi<br>
 Kinbakushi<br>
 Bakushi<br>
-Han-yuki<br>
+Han-yuka zuri partial suspension 半床<br>
 Tsuri/Zuri<br> 吊り / つり / ずり
 
 Harnesses<br>
@@ -55,5 +55,5 @@ Half-Hitch 竹止め (takedome)<br>
 Munter Hitch の止め (nodome)<br>
 Reverse Munter Hitch うらの止め (uranodome)<br>
 Knot 結び目 (musubime)<br>
-Square Knot / Reef Knot 本 結び (hon musubi)<br>
+Square Knot / Reef Knot 本 結び 本結び(hon musubi)<br>
 Friction 留め縄 (tomenawa)<br>
