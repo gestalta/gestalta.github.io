@@ -1,11 +1,11 @@
 ---
 layout: shibari-performancearchive
-title:  Prague Session
+title:  Prague
 date:   2016-10-30 21:17:59 +0100
 permalink: shibari/photos/pedro-murhaaya
 categories:
  - archiveshibari
-locationdate: Prague // October 2016
+locationdate: October 2016
 credits:
   "Rigger: Pedro</br>
   Model: Gestalta</br>
@@ -16,15 +16,9 @@ images:
  - url: https://c2.staticflickr.com/6/5740/30818793841_f19e7c8feb_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: dark haired woman wearing a kimono tied in a shibari partial suspension
- - url: https://c5.staticflickr.com/6/5770/30272682924_e66eb2979b_o.jpg
-   caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: woman tied in a shibari side suspension yoko-zuri
  - url: https://c8.staticflickr.com/6/5714/30818792431_12201a9f85_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: woman with long dark hair wearing a kimono tied in a shibari yoko-zuri
- - url: https://c7.staticflickr.com/6/5346/30272681974_9f7ac4a9f1_o.jpg
-   caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: woman with long dark hair wearing a kimono tied in a shibari yoko-zuri side suspension
  - url: https://c7.staticflickr.com/6/5708/30790810742_d64b69af31_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: gestalta, partially nude, tied by pedro in shibari yoko-zuri with hair tie
@@ -46,16 +40,10 @@ images:
  - url: https://c4.staticflickr.com/6/5334/30818778971_2d7f2053bf_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: woman wearing a koshimaki in hishi teppo shibari
- - url: https://c7.staticflickr.com/6/5484/30272674814_1e23cd741f_o.jpg
-   caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: woman wearing a koshimaki in hishi teppo shibari suspension
  - url: https://c4.staticflickr.com/6/5444/30906936915_4a567d7635_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: pedro tying gestalta in hishi teppo shibari suspension
  - url: https://c3.staticflickr.com/6/5500/30272674034_606cd9fd00_o.jpg
-   caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: photo of a nude woman in hishi teppo shibari suspension
- - url: https://c4.staticflickr.com/6/5773/30906934395_a1d1500306_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: photo of a nude woman in hishi teppo shibari suspension
  - url: https://c7.staticflickr.com/6/5573/30605775870_2bf004b29a_o.jpg
@@ -83,9 +71,6 @@ images:
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: gestalta tied by pedro
  - url: https://c1.staticflickr.com/6/5480/30605765840_0721054983_o.jpg
-   caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
-   alt: gestalta tied by pedro
- - url: https://c3.staticflickr.com/6/5537/30871001106_e0a09c47d1_o.jpg
    caption: "Shibari by Pedro / Model: Gestalta / Photography: Murhaaya"
    alt: gestalta tied by pedro
 
