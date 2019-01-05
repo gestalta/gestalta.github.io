@@ -44,4 +44,5 @@ images:
    caption: "Circle Drawing (performance relic) for Mat Chivers : Harmonic Distortion : 2016"
    alt: Circle Drawing for Mat Chivers Harmonic Distortion 2016
 ---
-Performance "Circle Drawing" at <a href="http://www.pmam.org/" target="_blank_">PM/AM</a> gallery for "Harmonic Distortion" exhibition by Mat Chivers. Materials, fibre optic cable and red ochre pigment left as a performance relic in the space for the duration of the exhibition. Live soundtrack performed by Moiré.
+Performance "Circle Drawing". At <a href="http://www.pmam.org/" target="_blank_">PM/AM</a> gallery for "Harmonic Distortion" exhibition by Mat Chivers. Materials, fibre optic cable and red ochre pigment left as a performance relic in the space for the duration of the exhibition. Live digital sound performed by Moiré. Costume by Vic Hare & Nadine Peters.<br>
+Duration: 17 minutes
