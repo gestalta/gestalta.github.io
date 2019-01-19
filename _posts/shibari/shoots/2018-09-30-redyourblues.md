@@ -5,7 +5,7 @@ date:   2018-09-30 21:17:59 +0100
 permalink: shibari/photos/redyourblues
 categories:
  - archiveshibari
-locationdate: Berlin / 2017 - 2018
+locationdate: Berlin // 2017 - 2018
 credits:
   "Shibari: Gestalta<br>
   Photography: Aleksander Stojanov"
