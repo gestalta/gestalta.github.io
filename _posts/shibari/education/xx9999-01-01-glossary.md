@@ -38,6 +38,7 @@ Suspension Positions<br>
 Tsuri<br> 吊り<br>
 Aomuke zuri<br> 仰向け吊り<br>
 Ebi<br>
+Ebi zeme<br> 海老攻め<br>
 Ebi zuri<br>
 Gyaku Ebi zuri<br>
 yoko zuri<br>
